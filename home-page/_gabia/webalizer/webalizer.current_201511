@@ -1,0 +1,586 @@
+# Webalizer V2.23-05 Incremental Data - 11/29/2015 23:41:33
+2015 11 29 23 41 33
+2964 1273 38 67 56 35 106363945 240 41 0
+14 10 2065 27 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2352 867 82947925 15 175 15
+365 201 9468699 15 36 13
+247 205 13947321 14 29 13
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+17 17 933491 1
+0 0 0 0
+20 20 1133798 1
+0 0 0 0
+1 0 216 0
+28 28 1283979 1
+70 68 3258114 17
+0 0 0 0
+63 61 7296482 4
+7 6 234848 1
+0 0 0 0
+40 40 1546171 5
+2146 749 73528657 143
+2 2 25644 2
+96 71 5531701 11
+105 74 4745894 22
+13 12 138479 1
+0 0 0 0
+0 0 0 0
+96 62 4201323 16
+38 2 21704 2
+211 50 2431149 11
+11 11 52295 2
+0
+0
+0
+1273
+0
+0
+0
+0
+0
+18
+0
+0
+411
+0
+1262
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/image/sub/loc_home.png
+1 53 0 18832 0 0
+/image/sub/loc_bar.png
+1 53 0 20512 0 0
+/image/content/company/his_arrico.png
+1 9 0 9792 0 0
+/common/css/sub.css
+0 87 0 76074 0 0
+/image/sub/subvisual_img1.png
+1 53 0 285648 0 0
+/common/css/main.css
+0 87 0 163804 0 0
+/image/content/business/sysimg01.jpg
+1 12 0 1458326 0 0
+/image/common/w3c.png
+1 81 0 79700 0 0
+/image/main/m2_pic1.jpg
+1 49 0 717136 0 0
+/sub/promotion/promotion01.html
+0 19 0 142519 0 0
+/font/NanumGothic.eot
+0 21 0 4581060 0 0
+/common/js/html5shiv.js
+0 90 0 78507 0 0
+/image/main/m1_linkbtn.png
+1 46 0 35100 0 0
+/common/css/common.css
+0 87 0 165044 0 0
+/image/content/business/sysimg02_tit.jpg
+1 11 0 155853 0 0
+/image/content/company/ceosing.png
+1 8 0 50050 0 0
+/font/NanumGothic.ttf
+0 64 0 53128338 0 0
+/image/content/business/biz_hexbox.png
+1 16 0 31430 0 0
+/image/main/m1_icoset.png
+1 46 0 90225 0 0
+/sub/human/human02.html
+0 13 0 85995 0 1
+/image/content/company/crape.png
+1 9 0 318848 0 0
+/image/main/m31_infoimg.png
+1 46 0 45925 0 0
+/image/main/morebtn.png
+1 46 0 24000 0 0
+/image/sub/loc_arrow.png
+1 48 0 16448 0 0
+/image/main/visimg2.jpg
+1 51 0 12044371 0 0
+/image/content/human/hu_c04img1.png
+1 13 0 184302 0 0
+/image/main/visimg3.jpg
+1 49 0 4107712 0 0
+/image/common/pagingicoset.png
+1 13 0 12114 0 0
+/image/common/pageready.jpg
+1 17 0 166932 0 0
+/image/content/business/sysimg01_tit.jpg
+1 11 0 301644 0 0
+/image/main/m_visctricoset.png
+1 50 0 39585 0 0
+/sub/product/product02.html
+0 12 0 64896 0 0
+/image/main/visimg1.jpg
+1 51 0 10977853 0 0
+/image/common/tabsetbar.jpg
+1 13 0 10134 0 0
+/sub/company/company01.html
+0 21 0 164140 0 1
+/common/js/jquery-1.11.3.min.js
+0 89 0 3070624 0 0
+/common/css/content.css
+0 87 0 112189 0 0
+/sub/company/company02.html
+0 10 0 66900 0 0
+/sub/business/business02.html
+0 11 0 69718 0 0
+/image/common/pop.jpg
+1 47 0 2865017 0 0
+/common/css/reset.css
+0 87 0 28024 0 0
+/image/content/business/sysimg02.jpg
+1 12 0 1982258 0 0
+/sub/human/human01.html
+0 9 0 70506 0 0
+/image/content/company/cpinfo_img1.jpg
+1 20 0 3082290 0 0
+/common/js/layout.js
+0 89 0 97504 0 0
+/image/content/human/hulogo.png
+1 8 0 34272 0 0
+/sub/business/business03.html
+0 8 0 47944 0 0
+/image/main/m2_pic3.jpg
+1 48 0 605205 0 0
+/image/content/company/gretting_img1.jpg
+1 8 0 440447 0 0
+/image/common/toplogo.jpg
+1 90 0 198016 0 0
+/image/content/human/talent_boxset.png
+1 8 0 141400 0 0
+/
+0 85 0 1090931 39 6
+/image/content/business/imgsysimg02.jpg
+1 7 0 472020 0 0
+/sub/company/company03.html
+0 10 0 72420 0 0
+/common/js/main.js
+0 54 0 134277 0 0
+/image/content/company/load.jpg
+1 5 0 163015 0 0
+/common/css/board.css
+0 87 0 69657 0 0
+/image/main/m2_pic2.jpg
+1 49 0 783748 0 0
+/common/css/default.css
+0 88 0 4867 0 0
+/sub/product/product01.html
+0 10 0 54050 0 0
+/image/content/human/hu_tit01.png
+1 8 0 64995 0 0
+/sub/company/company04.html
+0 5 0 30315 0 0
+/_gabia/webalizer/usage_201511.html
+0 2 0 162959 2 1
+/image/main/m_visctrimg.png
+1 50 0 66178 0 0
+/sub/business/business01.html
+0 18 0 157050 0 0
+/image/common/footlogo.png
+1 82 0 136526 0 0
+/sub/promotion/detailview.html
+0 7 0 46998 0 0
+# End Of Table - urls
+# -sites- (monthly)
+216.163.188.232
+0 1 1 12822 1 1448714024
+/
+131.255.31.90
+0 10 10 39473 1 1448840483
+/
+198.186.192.44
+0 2 2 25644 2 1448810080
+/
+223.62.169.58
+0 433 161 25756341 1 1448632057
+/
+197.217.71.28
+0 22 22 1161464 1 1448726294
+/
+188.81.17.126
+0 20 20 1133798 1 1448682756
+/
+223.62.229.39
+0 39 35 3867787 1 1448631219
+/sub/company/company01.html
+216.163.188.228
+0 1 1 12822 1 1448714161
+/
+110.76.142.175
+0 2 2 25644 2 1448790767
+/
+158.69.2.151
+0 1 1 12822 1 1448804249
+/
+1.214.91.186
+0 1427 443 27625189 4 1448806823
+/
+46.165.110.236
+0 12 12 138263 1 1448646144
+/
+175.223.27.251
+0 289 138 12686126 2 1448639915
+/sub/promotion/detailview.html
+61.248.224.17
+0 30 30 3645113 1 1448788560
+/
+182.248.150.15
+0 1 1 12822 1 1448717609
+/
+223.62.67.34
+0 43 35 3868651 1 1448630503
+/sub/company/company01.html
+175.223.48.177
+0 30 29 3632507 1 1448632082
+/
+216.38.216.197
+0 10 10 236548 1 1448714424
+/
+177.13.33.21
+0 17 17 933491 1 1448758860
+/
+54.201.101.38
+0 1 0 216 0 0
+-
+14.39.200.126
+0 68 66 3095155 1 1448695778
+/
+211.249.40.30
+0 1 1 12822 1 1448805668
+/
+219.249.227.13
+0 1 1 12822 1 1448656892
+/
+223.62.67.97
+0 30 29 3632507 1 1448642355
+/
+110.76.142.161
+0 2 2 11648 0 0
+-
+219.249.227.22
+0 1 1 5824 0 0
+-
+125.134.119.47
+0 284 84 6288956 3 1448833032
+/sub/company/company01.html
+180.76.15.147
+0 1 0 216 0 0
+-
+190.124.19.53
+0 28 28 1283979 1 1448777994
+/
+219.249.227.23
+0 1 1 5824 0 0
+-
+219.249.227.14
+0 1 1 12822 1 1448749442
+/
+110.76.142.179
+0 1 1 12822 1 1448661634
+/
+117.199.186.2
+0 28 28 1283979 1 1448713988
+/
+219.249.227.24
+0 1 1 5824 0 0
+-
+223.62.162.118
+0 101 53 4539208 1 1448630507
+/sub/product/product02.html
+201.4.70.33
+0 1 1 12822 1 1448753236
+/
+177.154.13.199
+0 21 21 1156213 1 1448802969
+/
+121.254.216.15
+0 2 2 162959 2 1448782629
+/_gabia/webalizer/usage_201511.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+131.255.31.90
+0 10 10 39473 1 1448840483
+/
+198.186.192.44
+0 1 1 12822 1 1448810080
+/
+110.76.142.175
+0 1 1 12822 1 1448790767
+/
+158.69.2.151
+0 1 1 12822 1 1448804249
+/
+1.214.91.186
+0 58 56 2854592 1 1448806823
+/
+61.248.224.17
+0 30 30 3645113 1 1448788560
+/
+177.13.33.21
+0 17 17 933491 1 1448758860
+/
+211.249.40.30
+0 1 1 12822 1 1448805668
+/
+219.249.227.22
+0 1 1 5824 0 0
+-
+125.134.119.47
+0 76 37 3889275 2 1448833032
+/sub/company/company01.html
+180.76.15.147
+0 1 0 216 0 0
+-
+190.124.19.53
+0 28 28 1283979 1 1448777994
+/
+177.154.13.199
+0 21 21 1156213 1 1448802969
+/
+121.254.216.15
+0 1 1 87857 1 1448782629
+/_gabia/webalizer/usage_201511.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.taehwainno.com/sub/business/business03.html
+0 39
+http://www.taehwainno.com/common/js/html5shiv.js
+0 1
+http://taehwainno.com/sub/business/business03.html
+0 11
+http://www.taehwainno.com/sub/company/company01.html
+0 84
+http://www.taehwainno.com/sub/business/business01.html
+0 113
+http://taehwainno.com/sub/promotion/promotion01.html
+0 12
+http://map.naver.com/local/siteview.nhn
+0 1
+http://taehwainno.com/sub/company/company03.html
+0 13
+http://taehwainno.com/common/js/jquery-1.11.3.min.js
+0 1
+http://taehwainno.com/sub/product/product01.html
+0 6
+http://www.taehwainno.com/common/css/common.css
+0 3
+http://taehwainno.com/sub/promotion/detailview.html
+0 4
+http://www.taehwainno.com/sub/product/product02.html
+0 77
+http://taehwainno.com/
+0 434
+http://taehwainno.com/common/js/layout.js
+0 1
+http://www.taehwainno.com/common/css/default.css
+0 12
+http://www.taehwainno.com/common/js/jquery-1.11.3.min.js
+0 1
+http://fast-wordpress-start.com
+0 1
+http://taehwainno.com/common/css/board.css
+0 1
+- (Direct Request)
+0 176
+http://www.taehwainno.com/common/js/main.js
+0 1
+http://taehwainno.com/common/js/main.js
+0 1
+http://www.taehwainno.com/common/css/board.css
+0 4
+http://www.taehwainno.com/
+0 633
+http://www.taehwainno.com/sub/promotion/promotion01.html
+0 91
+http://www.taehwainno.com/common/css/sub.css
+0 28
+http://www.taehwainno.com/sub/human/human01.html
+0 74
+http://taehwainno.com/common/css/content.css
+0 5
+http://taehwainno.com/index.html
+0 68
+http://taehwainno.com/sub/product/product02.html
+0 2
+http://taehwainno.com/common/js/html5shiv.js
+0 1
+http://taehwainno.com/common/css/main.css
+0 18
+http://rankings-analytics.com/try.php
+0 8
+http://www.taehwainno.com/sub/company/company03.html
+0 76
+http://www.taehwainno.com/sub/human/human02.html
+0 113
+http://www.taehwainno.com/sub/product/product01.html
+0 83
+http://taehwainno.com/common/css/default.css
+0 6
+http://taehwainno.com/sub/business/business01.html
+0 21
+http://www.taehwainno.com/common/css/reset.css
+0 14
+http://taehwainno.com/sub/human/human01.html
+0 9
+http://www.taehwainno.com/common/css/main.css
+0 78
+http://taehwainno.com/sub/human/human02.html
+0 5
+http://www.taehwainno.com/sub/business/business02.html
+0 52
+http://taehwainno.com/common/css/common.css
+0 1
+http://www.taehwainno.com/sub/promotion/detailview.html
+0 40
+http://www.taehwainno.com/sub/company/company02.html
+0 19
+http://www.taehwainno.com/sub/company/company04.html
+0 8
+http://taehwainno.com/sub/company/company04.html
+0 5
+http://www.taehwainno.com/index.html
+0 358
+http://taehwainno.com/common/css/reset.css
+0 3
+http://taehwainno.com/sub/company/company01.html
+0 71
+http://taehwainno.com/sub/business/business02.html
+0 37
+http://www.taehwainno.com/common/css/content.css
+0 16
+http://taehwainno.com/common/css/sub.css
+0 8
+http://www.taehwainno.com/common/js/layout.js
+0 1
+http://taehwainno.com/sub/company/company02.html
+0 15
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 66
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 20
+Mozilla/5.0 (Linux; Android 5.0.1; SM-G906K Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.
+0 216
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 1040
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 138
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 111
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 159
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 1
+Java/1.7.0_79
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-F310LR Build/KOT49I.F310LR10p) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 30
+Mozilla/5.0 (Linux; Android 5.1.1; LG-F600K Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.
+0 30
+KT/2.0.8 Wd/6.1 ko
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 10
+Mozilla/5.0 (Linux; Android 4.4.2; SHV-E250S Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 433
+Java/1.6.0_33
+0 1
+KT/5.1.3 An/5.1.1 ko
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; SM-N910S Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 39
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G906K/KTU1BOJ2 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrow
+0 73
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 2
+facebookexternalhit/1.1;kakaotalk-scrap/1.0;
+0 5
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N920S Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/45.0.
+0 30
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 58
+Mozilla/5.0 (Linux; Android 5.1; LG-F500S Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.24
+0 43
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 28
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 76
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
+0 2
+KT/2.0.8 Wd/10.0 ko
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
+0 206
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 29
+Mozilla/5.0 (Linux; Android 4.4.2; IM-A910S Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 101
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

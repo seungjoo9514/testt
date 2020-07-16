@@ -1,0 +1,89 @@
+<ion-side-menus enable-menu-with-back-views="false" ng-controller = "PopupCtrl">
+    <ion-side-menu-content edge-drag-threshold="false" drag-content="false">
+    	<!--	
+        <div class="logo">
+            <img src="img/taehwalogo.png" alt="" />
+        </div>
+        -->
+        <ion-nav-bar class="bar-stable">
+            <ion-nav-back-button></ion-nav-back-button>
+
+            <ion-nav-buttons side="left">
+                <button class="button button-icon button-clear ion-navicon" menu-toggle="left"></button>
+            </ion-nav-buttons>
+        </ion-nav-bar>
+        <ion-nav-view name="menuContent"></ion-nav-view>
+    </ion-side-menu-content>
+
+    <ion-side-menu side="left">
+        <ion-header-bar class="bar-stable custom">        
+            <h1 class="title" style="text-align:center">전체메뉴
+                <div class="header_ctrset">
+                    <a href="#/app/main" class="ghome" menu-close>홈으로 바로가기</a>
+                    <a href="#" class="gclose" menu-close>메뉴닫기</a>                
+                </div>            
+            </h1>
+        </ion-header-bar>
+        
+        <ion-content>
+            <ion-list>
+                <ul class="lnblist">
+                    <li><a href="">회사소개</a>
+                            <ul class="lnb_dp2">
+                                <li><a href="#/app/intro1" menu-close>태화이노베이션</a></li> 
+                                <li><a href="#/app/intro2" menu-close>CEO인사말</a></li> 
+                                <li><a href="#/app/intro3" menu-close>연혁</a></li> 
+                                <li><a href="#/app/intro4" menu-close>찾아오시는 길</a></li> 
+                            </ul>
+                    </li>
+                    <li><a href="">사업소개</a>
+                            <ul class="lnb_dp2">
+                                <li><a href="#/app/biz1" menu-close>주요사업분야</a></li> 
+                                <li><a href="#/app/biz2" menu-close>전자문서시스템</a></li> 
+                                <li><a href="#/app/biz3" menu-close>이미지시스템</a></li> 
+                            </ul>
+                    </li>
+                    <li><a href="">제품소개</a>
+                            <ul class="lnb_dp2">
+                                <li><a href="#/app/prd1" menu-close>S/W</a></li> 
+                                <li><a href="#/app/prd2" menu-close>H/W</a></li> 
+                            </ul>
+                    </li>
+                    <li><a href="">홍보센터</a>
+                            <ul class="lnb_dp2">
+                                <li><a href="#/app/pro1" menu-close>사업수주현황</a></li>
+                            </ul>                  
+                    </li>
+                    <li><a href="">인재채용</a>
+                            <ul class="lnb_dp2">
+                                <li><a href="#/app/human1" menu-close>인재상</a></li> 
+                                <li><a href="#/app/human2" menu-close>채용절차</a></li> 
+                            </ul>
+                    </li>   
+                </ul>
+                <!--
+                <ion-item menu-close ng-click="login()">
+                Login
+                </ion-item>
+
+
+                <ion-item href="#/app/info">
+                회사소개              
+                </ion-item>
+                <ion-item menu-close href="#/app/intro">
+                사업소개
+                </ion-item>
+                <ion-item menu-close href="#/app/preduct">
+                제품소개                
+                </ion-item>
+                <ion-item menu-close href="#/app/board">
+                홍보센터                
+                </ion-item>                
+                <ion-item menu-close href="#/app/people">
+                인재채용                
+                </ion-item>
+                                -->
+            </ion-list>
+        </ion-content>
+    </ion-side-menu>
+</ion-side-menus>

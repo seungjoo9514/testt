@@ -1,0 +1,40 @@
+﻿/* 버튼스타일 */
+
+.btn_center {position:relative; text-align:center; @include font-size(14px);}
+.btn_right {position:relative; text-align:right; @include font-size(14px);}
+.btn_left {position:relative; text-align:left; @include font-size(14px);}
+.btn_both {position:relative; overflow:hidden;
+	.f_left + div {text-align:right; margin-right:1px}
+	.f_left { 
+		> h2 {margin-top:17px}
+		> p {margin-top:17px; padding:0}
+	}
+}
+
+
+//액션버튼
+.actionbtnset {@include posf(false, 20px, 20px, false); width:60px; height:60px; z-index:2000;
+	.actionbtn {position:absolute; z-index:10; visibility:visible; width:60px; height:60px; display:block; background:#d9a11c; @include rounded_corner(75px, false, false, false, false); 
+		@include transition(all .5s ease); @include mat_dp6;
+		&.on {@include opacity(1); @include transition(all .5s ease);}
+		span {display: block; width: 25px; height: 4px; margin-bottom: 3px; background: #fff; @include rounded_corner(2px, false, false, false, false); @include transition(all .2s ease-in-out);}
+		.bar1 {margin:0 auto; @include transform_ytype(28px, 0deg);}
+		.bar2 {margin:0 auto; @include transform_ytype(24px, 90deg);}
+	}
+	&.active { 
+		.actionbtn { 
+			.bar1 {@include transform_ytype(28px, 90deg);}
+			.bar2 {@include transform_ytype(24px, 180deg);}
+		}
+		.subbtn1 {top:-75px; visibility:visible; @include mat_dp5;
+			&:nth-child(2) {top:-150px}
+			&:nth-child(3) {top:-225px}
+		}	
+		
+	}
+}
+
+.actionbg {@include posf(0px, false, false, 0px); width:100%; height:100%; background:#000; z-index:1050; opacity:0; visibility:hidden; @include transition(all .3s ease-in);
+	&.active {visibility:visible; @include opacity(0.15); width:100%; height:100%; @include transition(all .3s ease-in);}
+}
+.subbtn1 {@include posa(0px, false, false, 0px); width:60px; height:60px; background:#fff; @include rounded_corner(75px, false, false, false, false); visibility:hidden; @include transition(all .2s ease-in);}

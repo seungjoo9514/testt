@@ -1,0 +1,380 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>태화이노베이션 홈페이지에 오신것을 환영합니다.</title>
+    <script type="text/javascript" src="common/js/html5shiv.js"></script>
+    <script type="text/javascript" src="common/js/main.js"></script>
+    <link type="text/css" rel="stylesheet" href="common/css/default.css" />
+    <script>
+        
+        /*
+        function setCookie( name, value, expiredays ) {
+            var todayDate = new Date();
+                todayDate.setDate( todayDate.getDate() + expiredays );
+                document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+        }
+        function closeWin(div, chk, cookname) {
+            if ( document.getElementById(chk).checked ){
+                setCookie(cookname, "done", 1);
+            }
+            document.getElementById(div).style.visibility = "hidden";
+        }
+        window.onload = function() {
+           cookiedata = document.cookie;  
+           /////  팝업 오픈용 
+           if ( cookiedata.indexOf("maindiv=done") < 0 ){    
+             document.getElementById('divpop').style.visibility = "visible";
+           } else {
+             document.getElementById('divpop').style.visibility = "hidden";
+           }
+        }
+        */
+        /* 리다이렉팅 */
+
+        /* 모바일 웹사이트 제작 예정이므로 임시 삭제 합니다. - 박세환 2016.03.19 */
+        if (screen.width <= 800) {
+            window.location = "http://www.taehwainno.com/m/";
+        }
+
+        //-->
+    </script>
+</head>
+
+<body>
+    <div class="containor">
+        <!-- 헤더 -->
+        <header>
+            <div class="header_inner">
+                <h1 class="logo">
+                    <a href="#none">
+                        <img src="image/common/toplogo.jpg" alt="태화이노베이션" />
+                    </a>
+                </h1>
+                <ul class="nav">
+                    <li>
+                        <a href="#none">회사소개</a>
+                        <ul class="nav_dp2">
+                            <li>
+                                <a href="sub/company/company01.html">태화이노베이션</a>
+                            </li>
+                            <li>
+                                <a href="sub/company/company02.html">CEO인사말</a>
+                            </li>
+                            <li>
+                                <a href="sub/company/company03.html">연혁</a>
+                            </li>
+                            <li>
+                                <a href="sub/company/company04.html">찾아오시는길</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#none">사업소개</a>
+                        <ul class="nav_dp2">
+                            <li>
+                                <a href="sub/business/business01.html">주요사업분야</a>
+                            </li>
+                            <li>
+                                <a href="sub/business/business02.html">전자문서시스템</a>
+                            </li>
+                            <li>
+                                <a href="sub/business/business03.html">이미지시스템</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#none">제품소개</a>
+                        <ul class="nav_dp2">
+                            <li>
+                                <a href="sub/product/product01.html">S/W</a>
+                            </li>
+                            <li>
+                                <a href="sub/product/product02.html">H/W</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#none">홍보센터</a>
+                        <ul class="nav_dp2">
+                            <li>
+                                <a href="sub/promotion/promotion01.html">사업수주현황</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#none">인재채용</a>
+                        <ul class="nav_dp2">
+                            <li>
+                                <a href="sub/human/human01.html">인재상</a>
+                            </li>
+                            <li>
+                                <a href="sub/human/human02.html">채용절차</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <!-- //헤더 -->
+        <div class="mainvisual">
+            <div class="vis_ctr">
+                <h3 class="hide">비주얼 컨트롤러</h3>
+                <a href="#visual_ctr_id" class="mvbtn btn_left" onClick="slideshow.move(-1); return false;"></a>
+                <a href="#visual_ctr_id" class="mvbtn btn_right" onClick="slideshow.move(1); return false;"></a>
+
+                <div class="paging_outerbox">
+                    <ul id="pagination" class="pagination">
+                        <li class="on">
+                            <a href="#pagination" onClick="slideshow.tap(0); return false;">
+                                <span class="hide">1번째비주얼</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pagination" onClick="slideshow.tap(1); return false;">
+                                <span class="hide">2번째비주얼</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pagination" onClick="slideshow.tap(2); return false;">
+                                <span class="hide">3번째비주얼</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#visual_ctr_id" onClick="slideshow.play(); return false;" class="btn_play">
+                                <span class="hide">재생</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#visual_ctr_id" onClick="slideshow.pause(); return false;" class="btn_stop">
+                                <span class="hide">정지</span>
+                            </a>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </div>
+
+            <div id="slideshow" class="mvis_imgbox">
+                <ul id="slides">
+                    <li>
+                        <img src="image/main/visimg1.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="image/main/visimg2.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="image/main/visimg3.jpg" alt="" />
+                    </li>
+                </ul>
+            </div>
+
+            <script type="text/javascript">
+                //<![CDATA[
+                var slideshow = new TINY3.fader.init('slideshow', {
+                    id: 'slides',
+                    auto: 3,
+                    resume: true,
+                    navid: 'pagination',
+                    navEvent: 'click',
+                    activeClass: 'on'
+                });
+                //]]>
+            </script>
+
+        </div>
+        <!-- 회사소개, 사업소개, 인재채용 링크박스 -->
+        <div class="m1">
+            <a href="sub/company/company01.html" class="m1box">
+                <div class="m1_contbox">
+                    <h3 class="m1_tit">회사소개</h3>
+                    <p class="m1_txt">태화이노베이션을 소개합니다.
+                </div>
+            </a>
+            <a href="sub/business/business01.html" class="m1box type1">
+                <div class="m1_contbox">
+                    <h3 class="m1_tit">사업소개</h3>
+                    <p class="m1_txt">주요사업분야를 소개합니다.</p>
+                </div>
+            </a>
+            <a href="sub/human/human02.html" class="m1box type2">
+                <div class="m1_contbox">
+                    <h3 class="m1_tit">인재채용</h3>
+                    <p class="m1_txt">열정적인 인재를 모집합니다.</p>
+                </div>
+            </a>
+        </div>
+        <!-- //회사소개, 사업소개, 인재채용 링크박스 -->
+
+        <!-- 제품소개 -->
+        <div class="m2">
+            <div class="m2_prdinfo">
+                <h3 class="m2_tit">제품소개
+                    <span>H/W SOLUTION</span>
+                </h3>
+                <a href="sub/product/product02.html" class="morebtn">더보기</a>
+                <a href="sub/product/product02.html" class="m2_prdbox">
+                    <h4 class="m2_tit type1">IntelliScan XDS
+                        <span>초고속 이미지 스캐너</span>
+                    </h4>
+                    <div class="pic">
+                        <img src="image/main/m2_pic1.jpg" alt="" />
+                    </div>
+                    <div class="dbtn"></div>
+                </a>
+                <a href="sub/product/product02.html?nm=prd3" class="m2_prdbox">
+                    <h4 class="m2_tit type1">TH-1500TB
+                        <span>태블릿 모니터 </span>
+                    </h4>
+                    <div class="pic">
+                        <img src="image/main/hwimg3.jpg" style="margin-right: -34px; width: 210px; margin-top: 17px;" alt="" />
+                    </div>
+                    <div class="dbtn"></div>
+                </a>
+            </div>
+
+            <div class="m2_prdinfo">
+                <h3 class="m2_tit">제품소개
+                    <span>S/W SOLUTION</span>
+                </h3>
+                <a href="sub/product/product01.html" class="morebtn">더보기</a>
+                <a href="sub/product/product01.html" class="m2_prdbox">
+                    <h4 class="m2_tit type1">DASS
+                        <span>문서자동분류 솔루션</span>
+                    </h4>
+                    <div class="pic">
+                        <img src="image/main/m2_pic3.jpg" alt="" />
+                    </div>
+                    <div class="dbtn"></div>
+                </a>
+                <a href="sub/product/product01.html" class="m2_prdbox none">
+                    <h4 class="m2_tit type1 none">FEVER 솔루션
+                        <span>서식정보관리 솔루션</span>
+                    </h4>
+                    <div class="pic">
+                        <img src="image/main/m2_pic4.jpg" alt="" />
+                    </div>
+                    <div class="dbtn"></div>
+                </a>
+            </div>
+        </div>
+        <!-- //제품소개 -->
+
+        <!-- 공지사항, 커뮤니티, 고객센터 -->
+        <div class="m3">
+            <div class="m3_inner">
+                <!-- 공지사항 -->
+                <div class="m31">
+                    <h3 class="m3_tit">사업수주현황
+                        <span>Business orders</span>
+                    </h3>
+                    <a href="sub/promotion/promotion01.html" class="morebtn">더보기</a>
+                    <ul class="notice_bul">
+                        <li>
+                            <a href="sub/promotion/detailview22.html">
+                                <span class="subject">미래에셋대우 태블릿모니터(TH-1500TB) 650대 도입 수주</span>
+                                <span class="date">2018.06.26</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="sub/promotion/detailview21.html">
+                                <span class="subject">KB국민은행 디지탈창구 고도화 사업 수주</span>
+                                <span class="date">2018.05.31</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="sub/promotion/detailview20.html">
+                                <span class="subject">태블릿모니터(TH-1500TB) 200대 추가 공급계약</span>
+                                <span class="date">2018.03.28</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- //공지사항 -->
+                <!-- 커뮤니티 -->
+                <!--
+        	<div class="m31">
+            	<h3 class="m3_tit">커뮤니티<span>community</span></h3>
+                <ul class="notice_bul">                
+                    <li>
+                        <a href="#none">
+                            <span class="subject">공지합니다.태화 이노베이션의 새로운 홈공지합니다.</span><span class="date">2015.09.25</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#none">
+                            <span class="subject">공지합니다.태화 이노베이션의 새로운 홈</span><span class="date">2015.09.25</span>
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="#none">
+                            <span class="subject">공지합니다.태화 이노베이션의 새로운 홈</span><span class="date">2015.09.25</span>
+                        </a>
+                    </li>                               
+                </ul>   
+            </div>
+            -->
+                <!-- //커뮤니티 -->
+                <!-- 고객센터 -->
+                <div class="m31">
+                    <h3 class="m3_tit">고객센터
+                        <span>cscenter</span>
+                    </h3>
+                    <div class="m31_infobox">
+                        <h3 class="m31_infotit">고객센터 연락처</h3>
+                        <p class="m31_infotxt">02-6952-9645</p>
+                    </div>
+                </div>
+                <!-- //고객센터 -->
+            </div>
+        </div>
+        <!-- //공지사항, 커뮤니티, 고객센터 -->
+
+        <!-- 푸터 -->
+        <footer>
+            <div class="footer_inner">
+                <div class="footlogo">
+                    <img src="image/common/footlogo.png" alt="태화이노베이션" />
+                </div>
+                <address>
+                    주식회사 태화이노베이션
+                    <br /> 서울특별시 성동구 뚝섬로 1길 25 서울숲한라에코벨리 601호 / 대표번호 : 02-6952-9644 / E-mail :
+                    <a href="mailto:taehwainno@taehwainno.com" title="관리자에게 메일보내기" class="maillink">taehwainno@taehwainno.com</a>
+                    <span class="copyright">Copyright ⓒ2015 TaeHwa Innovation Co.,Ltd All right reserved.</span>
+                </address>
+                <div class="webs">
+                    <img alt="W3C" id="logo" src="image/common/w3c.png">
+                    <p>해당 사이트는 웹표준을 준수합니다.</p>
+                </div>
+            </div>
+        </footer>
+        <!-- //푸터 -->
+
+        <div id="divpop">
+            <div class="popinner">
+                <table class="t_pop">
+                    <tr>
+                        <td class="popcont">
+                            <img src="image/common/pop.jpg" alt="" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="bottomtxt">
+                            <input type="checkbox" id="chkbox" value="checkbox">오늘 하루 이 창을 열지 않음
+                            <a href="javascript:closeWin('divpop', 'chkbox', 'maindiv');">[닫기]</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+    </div>
+    <script type="text/javascript" src="common/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="common/js/layout.js"></script>
+
+</body>
+
+</html>

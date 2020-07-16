@@ -1,0 +1,102 @@
+<ion-view view-title="오시는길">
+  <ion-content>
+      
+<div class="content_area">
+	<!--
+	<div id="map" data-tap-disabled="false"></div>
+    -->
+	<style type="text/css">
+    .dmap {font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: dotum, sans-serif; width: 100%; height: 614px; color: rgb(51, 51, 51); position: relative; margin-bottom:30px}
+    .dmap .dmapimg img {width:100%; border:1px sollid #d9d9d9 }
+    
+    .mapviewinfo {border:1px solid #d9d9d9; border-top:none; box-sizing:border-box;box-sizing:border-box;
+    background-color:rgb(255, 255, 255);width:100%;height:33px; line-height:33px}
+    .mapviewinfo .ico1 {margin:0 0 0 5px }
+    .mapviewinfo .ico2 {margin-left:10px }
+    
+    .map_botinfo {}
+    .map_botinfo .address_bul {margin-top:20px }
+    .map_botinfo .address_bul li {border:1px solid #d9d9d9; padding:5px }
+    .map_botinfo .address_bul li + li {margin-top:5px }
+    .map_botinfo .address_bul + .arround_infotit {margin-top:20px } 
+    .map_botinfo .arround_infotit + .arround_infocont {margin-top:15px; border-bottom:1px solid #d9d9d9; padding-bottom:15px}
+	
+	.map_botinfo .arround_infocont + .arround_infotit {margin-top:30px }
+	.map_botinfo .arround_infocont  a + img {margin-left:10px }
+    </style>    
+    
+    <div class="dmap">
+        <div class="dmapimg">
+            <a target="_blank" href="http://map.daum.net/?urlX=510257&amp;urlY=1123365&amp;itemId=18397471&amp;q=%EC%84%9C%EC%9A%B8%EC%88%B2%ED%95%9C%EB%9D%BC%EC%97%90%EC%BD%94%EB%B0%B8%EB%A6%AC&amp;srcid=18397471&amp;map_type=TYPE_MAP&amp;from=roughmap">
+                <img class="map" src="http://cfile187.uf.daum.net/image/241CB841575D8381111369" />
+            </a>
+        </div>
+    
+        <div class="mapviewinfo">
+            <span class="ico1">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_road.gif">
+            </span>
+            <a href="http://map.daum.net/?from=roughmap&amp;srcid=18397471&amp;confirmid=18397471&amp;q=%EC%84%9C%EC%9A%B8%EC%88%B2%ED%95%9C%EB%9D%BC%EC%97%90%EC%BD%94%EB%B0%B8%EB%A6%AC&amp;rv=on" target="_blank">로드뷰</a>
+            <span class="ico2">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_street.gif">
+            </span>
+            <a href="http://map.daum.net/?from=roughmap&amp;eName=%EC%84%9C%EC%9A%B8%EC%88%B2%ED%95%9C%EB%9D%BC%EC%97%90%EC%BD%94%EB%B0%B8%EB%A6%AC&amp;eX=510257&amp;eY=1123365" target="_blank">길찾기</a>
+        </div>
+        
+        <div class="map_botinfo">
+            <ul class="address_bul">
+                <li><strong>주소</strong> : 서울시 성동구 뚝섬로1길25 서울숲한라에코밸리 601호</li>
+                <li><strong>전화</strong> : 02-6952-9645</li>
+            </ul>
+            
+            <h2 class="arround_infotit">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/title_map05.png">
+            </h2>
+            
+            <div class="arround_infocont">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_subway13.png">
+                <a href="http://map.daum.net/?from=roughmap&amp;subwayId=SES1847" target="_blank">서울숲역</a>
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_subway02.png">
+                <a href="http://map.daum.net/?from=roughmap&amp;subwayId=SES0210" target="_blank">뚝섬역</a>
+            </div>
+    
+            <h2 class="arround_infotit">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/title_map06.png">
+            </h2>
+            
+            <div class="arround_infocont">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/icon_bus1.png">
+                <a href="http://map.daum.net/?from=roughmap&amp;busStopId=11040651012" target="_blank">서울숲</a>
+            </div>
+            
+            <h2 class="arround_infotit">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/title_map07.png">
+            </h2>
+                        
+            <div class="arround_infocont">
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_bus1.png">
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=1109000002&amp;busStopId=11040651012" target="_blank">121</a>
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_bus2.png"></span>
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=1100071583&amp;busStopId=11040651012" target="_blank">2014</a>
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=1100071712&amp;busStopId=11040651012" target="_blank">2224</a>
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=1100071658&amp;busStopId=11040651005" target="_blank">2412</a>
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=1100071574&amp;busStopId=11040651012" target="_blank">2413</a>
+                <img src="http://i1.daumcdn.net/localimg/localimages/07/2013/map/test/ico_bus7.png">
+                <a href="http://map.daum.net/?from=roughmap&amp;busInfoId=B37137&amp;busStopId=11040651005" target="_blank">성동13</a>            
+            </div>                    
+    	</div>
+    </div>
+</div>  
+
+<div class="bar bar-footer">
+    <address>주식회사 태화이노베이션<br />서울특별시 성동구 뚝섬로 1길 25 서울숲한라에코벨리 601호<br /> 
+    대표번호 : 02-6952-9644 / E-mail : taehwainno@taehwainno.com</address>
+    <!-- <button class="button button-clear pull-right">Right</button> -->
+</div>  
+ 
+  </ion-content>
+</ion-view>
+
+
+
+

@@ -1,0 +1,93 @@
+.mainvisual {position:relative; width:1200px; height:400px; margin:0 auto; overflow:hidden}
+.vis_ctr {position:absolute; width:1200px; height:400px; z-index:10}
+.vis_ctr a.mvbtn {display: inline-block; margin: 0; padding: 0; position: absolute; top: 165px}
+.vis_ctr a.mvbtn:before {content:""; display:block; position:absolute; top:22px; left:12px; width:19px; height:36px; 
+background:url(../../image/main/m_visctrimg.png) 0 0; z-index:10}
+.vis_ctr a.mvbtn:hover:before {background-position:0 -44px}
+.vis_ctr a.mvbtn:after {content:""; display:block; width:45px; height:85px; background:#000; opacity:.5}
+.vis_ctr a.mvbtn.btn_right {right:0}
+.vis_ctr a.mvbtn.btn_right:before {background-position:-29px 0}
+.vis_ctr a.mvbtn.btn_right:hover:before {background-position:-29px -44px}
+
+.mvis_imgbox {margin: 0; padding: 0; width: 1200px; overflow: hidden; `height: 400px}
+.paging_outerbox {position:absolute; bottom:20px; width:100%}
+.pagination {text-align:center}
+.pagination li {display:inline-block}
+.pagination li a {width:15px; height:15px; background:url(../../image/main/m_visctricoset.png) no-repeat -45px 0; display:block}
+.pagination li.on a {width:34px; height:15px; background-position:0 0}
+.pagination li a.btn_play {background-position:-71px 0}
+.pagination li a.btn_stop {background-position:-97px 0}
+.fader_slide {opacity:0; position:absolute}
+.fader_fade {opacity:1; -webkit-transition:opacity 1s; transition:1s}
+
+
+
+
+.m1 {position:relative; width:1200px; height:100px; overflow:hidden; margin:0 auto}
+.m1 .m1box {position:relative; width:400px; height:100px; float:left; display:inline; background:#ea5545}
+.m1 .m1box.type1 {background:#91180b}
+.m1 .m1box.type2 {background:#91370b}
+
+.m1box .m1_contbox {margin: 20px 0 0 32px; padding-left: 78px; position: relative; float: left}
+.m1box .m1_contbox:after {content:""; display:block; position:absolute; top:0; left:0; width:64px; height:64px; 
+background:url(../../image/main/m1_icoset.png) no-repeat 0 0}
+.m1box.type1 .m1_contbox:after {background-position:-78px 0}
+.m1box.type2 .m1_contbox:after {background-position:-156px 0}
+.m1box:after {content:""; display:block; position:absolute; top: 37px; right: 27px; width:32px; height:32px; 
+background:url(../../image/main/m1_linkbtn.png) no-repeat 0 0}
+.m1_tit {color:#fff; font-size:1.5em}
+.m1_txt {color:#fff; font-size:0.875em}
+
+.m1 + .m2 {margin-top:60px}
+.m2 {overflow:hidden}
+.m2_prdinfo {position:relative; overflow:hidden; float:left}
+.morebtn {text-indent:-9999px; display:block; position:absolute; top:10px; right:15px; width:20px; height:20px; background:url(../../image/main/morebtn.png) no-repeat 0 0}
+.m2_prdinfo + .m2_prdinfo {float:right}
+.m2 {position:relative; width:1200px; margin:0 auto}
+.m2_tit {font-size:1.5em; color:#313131; margin:0 0 15px 0}
+.m2_tit > span {font-size:.6em}
+.m2_tit.type1 {position:absolute; z-index:10; font-size:1.2em; margin:30px 0 0 20px}
+.m2_tit.type1>span {display:block; margin-top:10px}
+.m2_prdbox {position:relative; float:left; display:inline; width:282px; height:224px; border:1px solid #e0e0e0; overflow:hidden}
+.m2_prdbox:hover {border:1px solid #ea5421}
+.m2_prdbox .pic {position:absolute; bottom:0; right:0; height:224px; overflow:hidden}
+
+.m2_prdbox.none .m2_tit,
+.m2_prdbox.none .dbtn {display:none}
+
+.m2_prdbox .dbtn {width: 125px; position: absolute; bottom: 15px; left: 50%; margin-left: -62px; height: 30px}
+.m2_prdbox .dbtn:after {content:""; display:block; position:absolute;  width:125px; height:30px;
+background:#000; opacity:.5}
+.m2_prdbox .dbtn:before {z-index: 100; content: "자세히보기"; display: block; position: absolute; top: 0; left: 0;
+color: #fff; `text-align: center; width: 100%; line-height: 30px; text-align:center}
+.m2_prdbox + .m2_prdbox {margin-left:24px}
+
+.m2 + .m3 {margin-top:60px}
+.m3 {position:relative; width:100%; height:250px; background:#f2f2f2}
+.m3_inner {position:relative; width:1200px; height:250px; margin:0 auto; padding-top:50px; overflow:hidden}
+.m31 {position:relative; width:360px; float:left}
+.m31:first-child {width:720px}
+.m31 + .m31 {margin-left:59px}
+.m3_tit {font-size:1.5em; color:#313131; margin:0 0 0 0; border-bottom:1px solid #e1e1e1}
+.m3_tit > span {font-size:.6em; margin-left:5px}
+
+.m31_infobox {position:relative; padding-left:80px; margin:35px 0 0 14px}
+.m31_infobox:after {content:""; display:block; position:absolute; top:0; left:0; width:64px; height:62px; 
+background:url(../../image/main/m31_infoimg.png) no-repeat 0 0}
+.m31_infotit {font-size:.875em; color:#ea5421}
+.m31_infotxt {font-size:1.875em; color:#ea5421}
+
+.notice_bul {margin-top:20px}
+.notice_bul li {margin-bottom:10px; overflow:hidden}
+.notice_bul li a {font-size:0.875em}
+.notice_bul li a span.subject {float:left; width:540px; display:inline-block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; vertical-align:middle}
+.notice_bul li a span.date {float:right}
+.notice_bul li a:hover span {color:#7e7e7e}
+
+/* 팝업 */
+#divpop {position:absolute;left:395px;top:20px; z-index:200; visibility:hidden}
+.popinner {position:relative; width:490px; height:600px}
+.t_pop {width:100%; border-collapse:collapse; border:3px solid #ea5421}
+.t_pop td.bottomtxt {background:#565656; color:#fff; padding:10px 0; text-align:right}
+.t_pop td.bottomtxt a {color:#fff; margin-right:10px}
+.popcont {height:590px; text-align:center; background:#fff}
