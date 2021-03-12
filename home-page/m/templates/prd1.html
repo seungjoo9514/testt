@@ -1,12 +1,12 @@
 <ion-view view-title="S/W">
   <ion-content ng-controller = "TabCtrl">
-      
+    <!-- border-bottom: 4px solid orange; border-bottom: 4px solid white; -->
     <div class="content_area">
-        <div class="tab col4">
-            <div class="tab_list">
-                <a href="" id="cont1">DASS</a>
+            <div class="tab_list">  
+                <button id="cont1" onclick="showCont1()" style="font-size: 25px; background-color: white; border-bottom: 4px solid orange; height: 50px; width: 80px; border-right: white; border-top: white; border-left: white;">DASS</button>
+                <button id="cont2" onclick="showCont2()" style="font-size: 25px; background-color: white;  height: 50px; width: 80px; border-right: white; border-top: white; border-left: white;">FEVER</button>
             </div>
-            <div class="tabcont on" id="cont1">
+            <div class="tabcont on" id="cont1_" style="display: block;">
 
             	<div class="swiper-containerx swconts">
                     <div class="swiper-wrapper">
@@ -302,10 +302,69 @@
                             
                 </div>            
             </div>
+            <div class="tabcont" id="cont2_" style="display: none;">
+                <h2 class="titset" style="color: #ea5421; font-size: 1.6em;">FEVER</h2>
+                    <h4 class="subtit type2" style="margin-top: 30px; font-size: 1.2em; color:#326cb4;">FEVER : Rule기반의 전자문서 처리 솔루션</h4>
+                    <p class="stxt" style="margin-top: 15px;">
+                        FEVER는 고객의 비즈니스 프로세스 자동화를 위해 온라인상의 문서(전자 서식, 데이터)에서 필요한 
+                        다양한 팩트(고객 정보, 유형, 상품정보, 기초 정보, 계약조건, 서비스 등)의 속성, 값을 Rule 기반으로 관리하고, 
+                        데이터에 대한 검증을 능동적으로 처리하기 위한 전자문서와 기간계간 데이터 처리 솔루션 입니다.
+                    </p>    
+                                        
+                    <h4 class="subtit type2" style="margin-top: 40px; font-size: 1.2em; color:#326cb4;">주요 서비스영역</h4>
+                    <p class="stxt" style="margin-top: 15px;">
+                        업무의 기준이 되는 정책/규정, 법규, 업무절차 변경, 서비스확대에 유연하고 빠르게 대응하는 전자문서 정보관리 솔루션 입니다.
+                    </p>  
+                    <p style="margin-top: 30px;">
+                        <div class="simg" style="float: left;">
+                            <img src="img/prd_img10.jpg" alt="" />
+                        </div>
+                    </p>
+                    <div style="margin-top: 400px; margin-left: 30px;">
+                        <ul class="ic" style="font-size: 18px;">
+                            <li>온라인 계약시스템</li>
+                            <li style="margin-top: 5px;">종이 없는 창구 시스템</li>
+                            <li style="margin-top: 5px;">전자 교범 (전자업무 매뉴얼)</li>
+                            <li style="margin-top: 5px;">코딩을 줄이고 운영효율성을 위한 rule 엔진</li>
+                            <li style="margin-top: 5px;">기간계 인터페이스</li>
+                        </ul>
+                    </div>
+                    <h4 class="subtit type2" style="margin-top: 50px; font-size: 1.2em; color:#326cb4;">주요 관리영역</h4>  
+                    <p class="stxt" style="margin-top: 15px;">
+                        전자문서에서 작성된 내용과 유관시스템과의 입출력 관계를 관리하여 업무처리 시스템과의 연계를 신속하게 적용 가능합니다.
+                    </p>  
+                    <table style="margin-top: 30px;">
+                        <tbody style="padding: 15px 10px;">
+                            <tr style="border-bottom: 1px solid #dbdbdb; border-top: 1px solid #dbdbdb;">
+                                <th style="width: 23%; text-align: left; font-size: 23px; height: 60px;"><strong style="color: cornflowerblue;">Meta</strong> Management</th>
+                                <td style="font-size: 18px;">업무규정, 서비스 확대와 같은 잦은 비즈니스 변화를 정책기반으로 서식, 증빙서류, 항목 검증 관계를 등록하고 입/출력 맵핑 정보를 통해 업무처리 시스템과 seamless하게 통합할 수 있습니다.</td>                    
+                            </tr>
+                            <tr style="border-bottom: 1px solid #dbdbdb;">
+                                <th style="width: 23%; text-align: left; font-size: 23px; height: 60px;"><strong style="color: cornflowerblue;">Meta</strong> Repository</th>
+                                <td style="font-size: 18px;">비즈니스 정책, 서식 정보, 연계 시스템 정보가 보관되는 레파지토리 입니다.</td>
+                            </tr>
+                            <tr style="border-bottom: 1px solid #dbdbdb;">
+                                <th style="width: 23%; text-align: left; font-size: 23px; height: 60px;"><strong style="color: cornflowerblue;">Runtime</strong> API's</th>
+                                <td style="font-size: 18px;">메타정보를 실시간 연동하여 서식적재, 이동, 항목 속성 변경, 이벤트 처리 대리자의 인터페이스를 제공하여 서식 솔루션에 관계없이 일관된 방법으로 처리 가능합니다.</td>
+                            </tr>
+                            <tr style="border-bottom: 1px solid #dbdbdb;">
+                                <th style="width: 23%; text-align: left; font-size: 23px; height: 60px;"><strong style="color: cornflowerblue;">Rule-Based</strong> Decision</th>
+                                <td style="font-size: 18px;">비즈니스 상황을 탐지하여 서식, 입력항목, 유효성 검증 등에 필요한 의사결정 로직을 런타임 구성요소로 제공합니다.</td>
+                            </tr>
+                            <tr style="border-bottom: 1px solid #dbdbdb;">
+                                <th style="width: 23%; text-align: left; font-size: 23px; height: 60px;"><strong style="color: cornflowerblue;">I/O</strong> Mapper</th>
+                                <td style="font-size: 18px;">업무처리 시스템과의 연계를 위한 입출력 정보를 제공합니다.</td>
+                            </tr>                                                                               
+                        </tbody>
+                    </table>    
+
+            </div>
+
+
             <div class="tabslideset">
                 <div class="tabslide"></div>
             </div>            
-        </div>
+        
         
     </div>
 
@@ -317,6 +376,7 @@
   </ion-content> 
 </ion-view>
     <script>
+
     var swiper = new Swiper('.swiper-containerx', {
         pagination: '.swiper-pagination',
         nextButton: '.swiper-button-next',
@@ -327,6 +387,33 @@
 		autoHeight: true,
 		freeMode:false
     });
+
+    function showCont1(){
+        $("#cont1_").show();
+        $("#cont2_").hide();
+        $("#cont1").css('border-bottom', '4px solid orange');
+        $("#cont2").css("border-bottom-color", "white");
+    }
+    function showCont2(){
+        $("#cont1_").hide();
+        $("#cont2_").show();
+        $("#cont2").css('border-bottom', '4px solid orange');
+        $("#cont1").css("border-bottom-color", "white");
+    }
+
+        var link = document.location.href.split("?"); 
+        //alert(link[1]);
+        if(link[1] == 'none1'){            
+            $("#cont2").css('border-bottom', '4px solid orange');
+            $("#cont1").css("border-bottom-color", "white");
+            $("#cont2_").show();
+            $("#cont1_").hide();
+        } else{
+            $("#cont1").css('border-bottom', '4px solid orange');
+            $("#cont2").css("border-bottom-color", "white");
+            $("#cont1_").show();
+            $("#cont2_").hide();
+        }
     </script> 
 
 
