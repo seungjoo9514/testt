@@ -1,0 +1,32 @@
+﻿@charset "UTF-8";
+
+// sass 구조 불러 옵니다.
+@import
+// 변수, 믹스인, 함수 정리
+"_variable.scss",
+"_mixin.scss",
+"_function.scss",
+
+// 리셋 css
+"_reset.scss",
+
+// 아이오닉 스타일 적용
+"_ionicstyle.scss",
+
+// 공통ui적용
+"_commonui.scss",
+
+// 테이블 및 보드 스타일
+"_board.scss",
+
+//인풋요소
+"_input.scss",
+
+//버튼 스타일
+"_button.scss",
+
+//메인화면 스타일
+"main.scss",
+
+//데이터피커
+"datepicker.scss"

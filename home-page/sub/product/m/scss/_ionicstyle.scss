@@ -1,0 +1,111 @@
+﻿/* 아이오닉 스타일 적용 */
+.slider { height: 100%; text-align: center }
+.scroll { height: 100% }
+.previous-title {color:#fff; line-height:70px}
+
+.ion-simg {width:100%; height:100%; background:url(../img/visimg1.jpg) no-repeat; background-size:cover;
+	&.type1 {background:url(../img/visimg2.jpg) no-repeat; background-size:cover}
+	&.type2 {background:url(../img/visimg3.jpg) no-repeat; background-size:cover}
+}
+
+.item-icon-left ion-spinner {
+  float: left;
+  margin-left: -3.2em;
+  margin-right: 1em;
+  margin-top: -0.2em;
+ }
+
+.spinner svg {
+  width: 28px;
+  height: 28px;
+  stroke: #999;
+  fill: #999;
+}
+
+//메터리얼 가이드
+.matboxset {position:relative; margin:20px 0 0 ; padding:0 0 80px 30px; overflow:hidden}
+.matbox1 {width:100px; height:100px; background:#be3036; float:left; margin:40px 40px 0 0; color:#fff; line-height:100px; text-align:center;
+	&.type1 {@include mat_dp1}
+	&.type2 {@include mat_dp2}
+	&.type3 {@include mat_dp3}
+	&.type4 {@include mat_dp4}
+	&.type5 {@include mat_dp5}
+	&.type6 {@include mat_dp6}
+	&.type7 {@include mat_dp7}
+	&.type8 {@include mat_dp8}
+	&.type9 {@include mat_dp9}
+	&.type10 {@include mat_dp10}
+}
+
+.tbbts_sidebarguidebox {position:relative; width:90%; height:300px; border:1px solid #f3f3f3; padding:30px;
+	.tbbts_lnb {position:absolute; top:10px; left:20px; width:200px; height:90%; background:#f8f8f8; @include mat_dp3}
+	.tbbts_lnb_dp2 {position:absolute; top:30px; left:190px; width:200px; height:200px; background:#f8f8f8; @include mat_dp3 }
+	.tbbts_lnb_dp3 {position:absolute; top:200px; left:100px; width:200px; height:50px; background:#f8f8f8; @include mat_dp3 }
+}
+
+.principle_outer {overflow:hidden;
+	.principle {display:inline-block; margin-left:20px; width:300px; text-align:center; float:left;
+		.pr1 {width:200px; height:200px; background:#a869e3; display:inline-block; padding:0; border-radius:75%; text-align:center; line-height:200px; color:#fff; margin-bottom:10px;
+		@include font-size(24px);
+			&.type1 {background:#6997e3}
+		}
+		.subtxt {text-align:left}
+	}
+}
+
+.item {border:none; margin:0; border-bottom:1px solid #dddddd}
+
+.ionicrow > div:first-of-type {color:#f00}
+.ionicrow > div:last-of-type {color:#00F}
+
+.bar { 
+	&.bar-stable { 
+		&.custom {background:#ea5421;
+			.title {color:#fff }
+		}
+	}
+	.button { 
+		&.ion-navicon { 
+			&:before { 
+				/* line-height:75px; */
+			}
+			&.button-clear { 
+				max-height:94px;
+			}
+		}
+	}
+}
+.menu-open {
+	.menu {overflow:visible; z-index:10 !important;
+		.overflow-scroll {overflow:visible}
+	 }
+ }
+
+ .bar-footer {position:relative; background:#1c1c1c; height:100px;
+ 	address {@include font-size(12px); margin:10px auto 0; text-align:center; color:#fff}
+ }
+
+.title { 
+	> h2 {color:#ea5421; @include font-size(16px);}
+	+ .list {margin-top:15px}
+}
+.list { 
+	&.recue {margin-bottom:20px;
+		li {border-bottom:1px solid #c7c8c8; margin:10px 0; padding:0 0 5px 0;
+			&:first-child {margin-top:0}
+			dl { 
+				dt {color:#333; @include font-size(14px); }
+				dd {color:#666;  @include font-size(12px);}
+			}
+		}
+	}
+}
+
+.recuebox { 
+	.stit {color:#333; margin-top:5px}
+	.stxt {@include font-size(12px); color:#666}
+}
+
+.simg { margin:0 0 40px 0;
+	img {width:100%}
+}

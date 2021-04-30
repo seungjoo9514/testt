@@ -1,0 +1,115 @@
+<ion-view view-title="태화이노베이션" >
+  <ion-content ng-controller = "TabCtrl" class="main">
+    <div class="swiper-container mvis">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><div class="ion-simg"></div></div>
+            <div class="swiper-slide"><div class="ion-simg type1"></div></div>
+            <div class="swiper-slide"><div class="ion-simg type2"></div></div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+    <div class="m1">
+        <a href="#/app/intro1" class="mbox">
+            <h2 class="subtit">회사소개</h2>
+        </a>
+        <a href="#/app/biz1" class="mbox type1">
+            <h2 class="subtit">사업소개</h2>
+        </a>
+        <a href="#/app/human1" class="mbox type2">
+            <h2 class="subtit">인재채용</h2>
+        </a>                
+    </div>
+        <div class="tab col2">
+            <div class="tab_list">
+                <a href="" id="cont1">H/W Solution</a>
+            </div>
+            <div class="tabcont on" id="cont1">
+            <!-- 내용 1 -->
+                <div class="list">
+                    <a class="item item-thumbnail-left" href="#/app/prd2">
+                      <img src="img/main/hwimg1.jpg" alt="">
+                      <h2>IntelliScan XDS</h2>
+                      <p>초고속 이미지 스캐너</p>
+                    </a>
+                    <a class="item item-thumbnail-left" href="#/app/prd2?none1">
+                      <img src="img/main/hwimg3.jpg" alt="">
+                      <h2>TH-1500TB</h2>
+                      <p>태블릿 모니터</p>
+                    </a>                    
+                </div>              
+            <!-- //내용 1 -->                                
+            </div>                
+            <div class="tab_list">
+                <a href="" id="cont2">S/W Solution</a>
+            </div>
+            <div class="tabcont" id="cont2">
+            <!-- 내용 2 -->
+                <div class="list">
+                    <a class="item item-thumbnail-left" href="#/app/prd1">
+                      <img src="img/main/swimg.jpg" alt="">
+                      <h2>DASS</h2>
+                      <p>문서자동분류 솔루션</p>
+                    </a>   
+                    <a class="item item-thumbnail-left" href="#/app/prd1?none1">
+                      <img src="img/main/swimg.jpg" alt="">
+                      <h2>FEVER 솔루션</h2>
+                      <p>서식정보관리 솔루션</p>
+                    </a>
+                </div>               
+            <!-- //내용 2 -->   
+            </div>                                                             
+            <div class="tabslideset">
+                <div class="tabslide"></div>
+            </div>                     
+        </div>  
+
+    <div class="m2">
+        <div class="m2head">
+            <h2 class="subtit">사업수주현황</h2>
+        </div>
+        <div class="m2cont">
+            <ul class="m2blit">
+                <li>
+                    <a href="#/app/pro1">
+                        <span class="txtcut">미래에셋대우 태블릿모니터(TH-1500TB) 650대 도입 수주</span>
+                        <span class="date">2018.06.26</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#/app/pro1">
+                        <span class="txtcut">KB국민은행 디지탈창구 고도화 사업 수주</span>
+                        <span class="date">2018.05.31</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="m3">
+    	<a href="tel:0269529645" class="cuslink">고객센터 전화상담(02-6952-9645)</a>
+    </div>    
+     <div class="bar bar-footer">
+        <address>주식회사 태화이노베이션<br />서울특별시 성동구 아차산로17길 48, 성수SK V1센터1 912,913호<br /> 
+    대표번호 : 02-6952-9644 / E-mail : taehwainno@taehwainno.com</address>
+      <!-- <button class="button button-clear pull-right">Right</button> -->
+    </div>    
+  </ion-content>
+</ion-view>
+
+
+
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        paginationClickable: true,
+        spaceBetween: 0,
+        centeredSlides: true,
+        autoplay: 3000,
+        autoplayDisableOnInteraction: false,
+    });
+    </script>

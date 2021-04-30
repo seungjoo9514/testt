@@ -1,0 +1,109 @@
+/* 회사소개 - 태화이노베이션 */
+.cp1_info {position:relative; width:100%; height:300px; overflow:hidden}
+.cp1_info + .subtit.type1 {margin-top:45px}
+h3 + .subtxt {margin-top:25px}
+
+.view {overflow:hidden}
+
+/* 인사말 */
+.cp2_imgbox + .subtxt {margin-top:40px; margin-left:50px}
+.ceosign {text-align:right}
+
+.his_tline {position:relative; width:1050px; margin:30px auto 0; overflow:hidden}
+.his_tline:after {position:absolute; top:0; left:50%; margin-left:-1px; content:""; display:block; width:1px; min-height:100%; background:#3e3e3e}
+.t_line {position:relative; width:1px; min-height:400px; margin:0 auto}
+.t_line:after {content:""; display:block; position:absolute; left:50%; margin-left:-3px; width:5px; height:5px; background:#3e3e3e; 
+border-radius:75px}
+.his_tbox {position:relative; float:left; margin:0 0 0 30px; border:1px solid #434343; width:470px; padding:15px 10px}
+.his_tbox:first-child {margin-top:30px}
+.his_tbox:after {position:absolute; top:14px; left:-10px; content:""; display:block; width:10px; height:15px; background:url(../../image/content/company/his_arrico.png) no-repeat 0 0}
+.his_tbox:before {position: absolute; top: 14px; left: -36px; content: ""; display: block; width: 11px; height: 11px; background: #434343;
+border-radius: 75px}
+.his_tbox .subtit + .subtxt {margin-top:15px}
+
+.his_tbox.type1 {float:right; margin:0 30px 0 0}
+.his_tbox.type1:after {background-position:-20px 0; left:490px}
+.his_tbox.type1:before {left:515px}
+.his_tbox .f_left + .f_left {margin-left:10px}
+
+/* 주요사업소개 */
+.biz_hexboxouter {position:relative; margin-top:50px; float:left; width:50%; height:555px}
+.biz_hexboxinner {position:absolute}
+.biz_hexbox {position:relative; width:167px; height:192px; 
+background:url(../../image/content/business/biz_hexbox.png) no-repeat 0 0; overflow:hidden; float:left}
+.biz_infotit {text-align:center; margin-top:83px; color:#fff}
+.biz_infoul {float:left; margin:44px 0 0 10px}
+
+.biz_hexboxinner.type1 {top:150px; left:83px}
+.biz_hexboxinner.type1 .biz_hexbox { background-position:-216px 0}
+.biz_hexboxinner.type2 {top:300px; left:0}
+.biz_hexboxinner.type2 .biz_hexbox { background-position:-434px 0}
+
+
+/* 인재상 */
+.talentbox {position:relative; height:900px; margin-top:50px}
+.tal {position:absolute; width:338px; height:292px; background:url(../../image/content/human/talent_boxset.png) no-repeat; overflow:hidden}
+.tal .tal_htit {text-align:center; font-size:1.5em; color:#895714; margin-top:30px}
+.tal .tal_txt {font-size:.875em; color:#242424; margin-top:30px; margin-left:55px; width:70%}
+
+.tal.type1 {top:151px; left:261px; background-position:-359px 0}
+.tal.type1 .tal_htit {color:#123978}
+.tal.type2 {top:0; left:522px; background-position:-718px 0}
+.tal.type2 .tal_htit {color:#404040}
+.tal.type3 {top:151px; left:783px; background-position:-1075px 0}
+.tal.type3 .tal_htit {color:#6c104e}
+.tal.type4 {top:300px; left:522px; background-position:-1433px 0}
+.tal.type4 .tal_htit {color:#0f5b2c}
+.tal.type5 {top:450px; left:261px; background-position:-1790px 0}
+.tal.type5 .tal_htit {color:#364709}
+.tal.type6 {top:300px; left:0; background-position:-718px 0}
+.tal.type6 .hulogo {display:block; text-align:center; margin:108px auto 0}
+
+.hu_contbox {margin:0 0 0 15px}
+h3 + .hu_contbox {margin-top:20px}
+.hu_contbox + h3 {margin-top:30px}
+
+.subtxt + .tac,
+.subtit + .subtxt {margin-top:5px}
+
+.canceldoc + .subtit,
+.subtxt + .subtit {margin-top:20px} 
+
+.hu_p04box {position:relative; height:225px; background:#f2f2f2; padding-left:290px; margin-top:10px; padding-top:55px; overflow:hidden}
+.hu_p04box .subtxt + .btn.incrue {margin-top:10px}
+
+.hu_p04box:after {content:""; display:block; position:absolute; top:50px; left:100px; width:158px; height:242px; 
+background:url(../../image/content/human/hu_c04img1.png) no-repeat 0 0}
+
+
+/* 하드웨어 제품소개폼 */
+.prd_hwinfo {overflow:hidden; margin-bottom:20px}
+.prd_hwinfo .f_left {float:left }
+.prd_hwinfo .f_left .prd_imgbox {border:1px solid #c9c9c9; border-radius:5px; padding:30px; overflow:hidden; margin-top:10px}
+.prd_hwinfo .f_left .prd_movbox {margin: 0px 0 0 20px; width:300px; height:200px;}
+.prd_hwinfo .subtit {font-sisze:1.5em; color:#326cb4}
+.prd_hwinfo .ic {float:left; margin:50px 0 0 20px; width:60%}
+
+.table_colset + .prd_hwinfo,
+.t_nt + .prd_hwinfo {margin-top:30px}
+
+.canceldoc {background:#f2f2f2; overflow:hidden; text-align:center}
+
+.canceldoc .subtit {font-size:1.353em; color:#333333; margin:32px 0 0 0}
+.canceldoc .subtit.ty1 {font-size:0.875em; color:#333333; margin:14px 0 0 0}
+
+.canceldoc .ctbox {overflow:hidden; padding-bottom:45px; margin-top:50px}
+.canceldoc .ctbox .ctcont {display:inline-block; vertical-align:top; margin-left:75px}
+.canceldoc .ctbox .ctcont:first-child {margin-left:0}
+.canceldoc .ctbox .ctcont .top_con {width:164px; height:164px; display:table; margin:0 auto;
+background:url(../../image/content/business/canceldoc_contbg1.png) no-repeat 0 0}
+.canceldoc .ctbox .ctcont .top_con > span {display:table-cell; vertical-align:middle; color:#fff; padding:0 15px}
+
+.canceldoc .ctbox .ctcont .top_con.ty1 {background-position:-164px 0}
+.canceldoc .ctbox .ctcont .top_con.ty2 {background-position:-328px 0}
+
+.canceldoc .ctbox .ctcont .subtxt {color:#333; font-size:1.25em; font-weight:bold; line-height:1.4; margin:24px 0 16px 0}
+.canceldoc .ctbox .ctcont .bu { }
+.canceldoc .ctbox .ctcont .bu li {color:#666; font-size:.875em}
+
+

@@ -1,0 +1,35 @@
+﻿/* css 리셋 */
+* {@include default_boxsize}
+html, body {
+	width:100%;
+	min-height:$sz100;
+	color:$base_color;
+	color:#555;
+	@include mp0;	
+} 
+
+body {
+	font:normal 100%/1.2 $base_font;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,select,label,img { 
+	@include mp0;
+}
+
+table {
+	@include default_table;
+	@include mp0;
+}
+fieldset,img,table,button {border:$default_sz}
+ul,ol,li {list-style:$hide}
+img {vertical-align:middle}
+caption,legend {display:none}
+h1,h2,h3,h4,h5,h6 {font-size:100%;font-weight:bold}
+address, em {font-style:normal;padding:0;margin:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,navi,section {display:block}
+legend,hr {display:none;height:0;font-size:0}
+a {color:#555; text-decoration:none}
+p {padding:5px 0 5px 0}
+button {color:#555; text-decoration:none; cursor:pointer}
+
+

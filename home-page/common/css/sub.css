@@ -1,0 +1,34 @@
+.subvisual {position:relative; width:100%; height:80px; background:#ea5421}
+.subvisual_inner {position:relative; width:1200px; height:80px; margin:0 auto}
+.subvisual_copy {position:absolute; top:13px; left:138px; font-size:.875em; color:#fff; font-weight:bold}
+.subvisual_copy  * {font-weight:bold}
+.subcopy_bottxt {display:block; margin:10px 0 0 20px}
+.visual_imgbox {position:absolute; top:0; right:0; width:749px; height:130px; background:url(../../image/sub/subvisual_img1.png) no-repeat 0 0}
+
+.location {position:relative; width:100%; height:40px; border-bottom:1px solid #e0e0e0; z-index:100}
+.location_inner {position:relative; width:1200px; height:40px; margin:0 auto;}
+
+.loc_bul {margin-left:15px; height:40px}
+.loc_bul li {height: 40px; position: relative; float: left; display: inline; padding: 0 36px 0 25px; line-height: 40px;}
+.loc_bul li.loc_link.home {width:18px; height:100%; background:url(../../image/sub/loc_home.png) no-repeat 0 11px; margin-left:15px; text-indent:-9999px}
+.loc_bul li:first-child {padding-left:0}
+.loc_bul li.loc_link:after {position:absolute; right:0; top:0; content:""; display:inline-block; width:16px; height:39px; background:url(../../image/sub/loc_bar.png) no-repeat}
+
+.loc_bul li.current {padding:0; min-width:120px}
+.loc_bul li.current a {line-height: 40px; padding: 0 16px 0 25px; color: #ea5421; display: block}
+.loc_bul li.current:after {background:none}
+.loc_bul li.current a:after {position:absolute; right:0; top:16px; width:9px; height:7px; content:""; display:block; background:url(../../image/sub/loc_arrow.png) no-repeat }
+.loc_bul li.current.end a:after {background:none}
+
+.loc_bul li.current .loc_dp2 {position:absolute; top:41px; left:0; border:1px solid #e0e0e0; border-top:none; width:100%; overflow:hidden; display:none}
+.loc_bul li.current .loc_dp2 li {float:none; margin:0; padding:0; width:100%; line-height:33px; border-bottom:1px solid #e0e0e0; display:inline-block}
+.loc_bul li.current .loc_dp2 li a {color:#353535; display:block; width:100%; margin:0; padding:0; font-size:0.75em; text-align:center}
+.loc_bul li.current .loc_dp2 li a:after {display:none}
+.loc_bul li.current .loc_dp2 li a:hover {background:#e0e0e0}
+
+.wrap {position:relative; width:1200px; margin:0 auto}
+.bodyhead {position:relative; width:100%; height:85px; padding-bottom:45px}
+.bodyhead h2 {position:absolute; top:53px; left:15px}
+
+.content {position:relative; width:100%; min-height:500px; padding:0 15px 30px}
+

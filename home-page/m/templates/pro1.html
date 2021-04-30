@@ -1,0 +1,652 @@
+<ion-view view-title="사업수주현황">
+    <ion-content>
+
+        <style type="text/css">
+            dl.notice {
+                padding: 0;
+                margin-bottom: 20px;
+                border: 1px solid #d9d9d9;
+                border-radius: 5px;
+                overflow: hidden
+            }
+
+            dl.notice * {
+                font-weight: normal
+            }
+
+            dl.notice dt {
+                background: #f2f2f2;
+                padding: 0;
+                border-bottom: 1px solid #d9d9d9
+            }
+
+            dl.notice dt:last-of-type {
+                border-bottom: none
+            }
+
+            dl.notice dt>a {
+                position: relative;
+                display: block;
+                padding: 10px
+            }
+
+            dl.notice dt>a :after {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 50%;
+                right: 10px;
+                margin-top: -7px;
+                width: 24px;
+                height: 15px;
+                background: url(/img/notice_buico.png) no-repeat 0 0
+            }
+
+            dl.notice dt .noticetit {
+                font-size: 16px;
+                color: #333;
+                width: 90%;
+                margin-bottom: 5px
+            }
+
+            dl.notice dt .stxt {
+                font-size: 12px;
+                display: block
+            }
+
+            dl.notice dd {
+                background: #fff;
+                padding: 20px 10px;
+                border-bottom: 1px solid #d9d9d9;
+                display: none;
+            }
+
+            dl.notice dd>img {
+                width: 100%
+            }
+
+            dl.notice dd ul li>ul {
+                margin-left: 10px
+            }
+
+            dl.notice dd ul li>ul li {
+                font-size: 12px
+            }
+        </style>
+
+        <script>
+            $(function () {
+                $('dl.notice dt > a').on("click", function (e) {
+                    var _target = $(e.target);
+                    var parentClass = _target.parents('dt');
+                    //var parentClass2 = _target.parents('dl');
+                    var ddcont = $(parentClass).next('dd');
+                    //console.log(ddcont);
+                    if (parentClass.hasClass("on")) {
+                        //$('dl.notice dd').slideDown('fast');
+                        $(ddcont).slideUp('fast');
+                        $(parentClass).removeClass("on")
+                    } else {
+                        $('dl.notice dt').removeClass("on");
+                        $(parentClass).addClass("on");
+                        $('dl.notice dd').slideUp('fast');
+                        $(ddcont).slideDown('fast');
+                    }
+                })
+            })
+        </script>
+        <div class="content_area">
+            <dl class="notice">
+                <!-- no29 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">행정안전부 전자증명서 수취 시스템 구축 구매계약</h2>
+                        <span class="stxt">계약체결일 : 2020.07.24</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 12</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)국민은행</li>
+                        <li>계약 체결일 : 2020.07.24</li>
+                        <li>사업 기간 : 2020.07.24 ~ 2020.12.28 </li>
+                        <li>사업 내용 : KB국민은행 행정안전부 전자증명서 수취시스템 구축</li>
+                    </ul>
+                </dd>
+                <!-- no28 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">(은행)2020년 문서보관소 업무용 솔루션 도입</h2>
+                        <span class="stxt">계약체결일 : 2020.06.03</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 17</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 농협은행(주)</li>
+                        <li>계약 체결일 : 2020.06.03</li>
+                        <li>사업 기간 : 2020.06.03 ~ 2020.09.02 </li>
+                        <li>사업 내용 : 농협은행 문서보관소 문서분류를 위한 스캐너 및 솔루션 도입</li>
+                    </ul>
+                </dd>
+                <!-- no27 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">(주)케이비국민카드_PPR, 디지털서식관리시스템 고도화_디지털서식</h2>
+                        <span class="stxt">계약체결일 : 2020.05.29</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 36</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : KB국민카드</li>
+                        <li>계약 체결일 : 2020.05.29</li>
+                        <li>사업 기간 : 2020.06.01 ~ 2020.11.15 </li>
+                        <li>사업 내용 : KB국민카드 PPR, 디지털서식관리시스템 고도화</li>
+                    </ul>
+                </dd>
+                <!-- no26 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">채점인프라개선(초고속스캐너 구입)</h2>
+                        <span class="stxt">계약체결일 : 2020.04.24</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 52</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 한국교육과정평가원</li>
+                        <li>계약 체결일 : 2020.04.24</li>
+                        <li>사업 기간 : 2020.04.24 ~ 2020.07.23 </li>
+                        <li>사업 내용 : 한국교육과정평가원 채점인프라개선을 위한 초고속스캐너 도입</li>
+                    </ul>
+                </dd>
+                <!-- no25 -->
+                <dt>
+                        <a href="">
+                            <h2 class="noticetit">KB국민은행디지털창구 서식관리시스템 고도화 개발용역 구매계약 2차</h2>
+                            <span class="stxt">계약체결일 : 2019.06.25</span>
+                            <span class="stxt">이름 : 관리자</span>
+                            <span class="stxt">조회수 : 51</span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <ul class="bu">
+                            <li>고객사 : KB국민은행</li>
+                            <li>계약 체결일 : 2019.06.25</li>
+                            <li>사업 기간 : 2019.06.25 ~ 2020.04.24 </li>
+                            <li>사업 내용 : KB국민은행 디지털창구 서식관리시스템 2차 고도화</li>
+                        </ul>
+                    </dd>
+                <!-- no24 -->
+                <dt>
+                        <a href="">
+                            <h2 class="noticetit">(주)케이비국민카드_KB국민카드 디지털 서식관리시스템 카드업무 대응개발_디지털서식</h2>
+                            <span class="stxt">계약체결일 : 2019.02.08</span>
+                            <span class="stxt">이름 : 관리자</span>
+                            <span class="stxt">조회수 : 60</span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <ul class="bu">
+                            <li>고객사 : KB국민카드</li>
+                            <li>계약 체결일 : 2019.02.08</li>
+                            <li>사업 기간 : 2019.02.11 ~ 2019.10.31 </li>
+                            <li>사업 내용 : KB국민카드 디지털서식관리시스템 카드업무 대응개발</li>
+                        </ul>
+                    </dd>
+                <!-- no23 -->
+                <dt>
+                        <a href="">
+                            <h2 class="noticetit">KDB산업은행 차세대시스템 구축 ATMS 솔루션</h2>
+                            <span class="stxt">계약체결일 : 2018.07.19</span>
+                            <span class="stxt">이름 : 관리자</span>
+                            <span class="stxt">조회수 : 82</span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <ul class="bu">
+                            <li>고객사 : 'KDB산업은행'</li>
+                            <li>계약 체결일 : 2018.07.19</li>
+                            <li>사업 기간 : 2018.07.20 ~ 2019.05.09 </li>
+                            <li>사업 내용 : KDB산업은행 차세대시스템 자동화기기관리시스템(ATMS) 구축</li>
+                        </ul>
+                    </dd>
+                <!-- no22 -->
+                 <dt>
+                    <a href="">
+                        <h2 class="noticetit">미래에셋대우 태블릿모니터(TH-1500TB) 650대 도입 수주</h2>
+                        <span class="stxt">계약체결일 : 2018.06.26</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 92</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 미래에셋대우</li>
+                        <li>계약 체결일 : 2018.06.26</li>
+                        <li>사업 기간 : 2018.06.26 ~ 2018.07.30 </li>
+                        <li>사업 내용 : Digital 창구시스템 구축에 따른 직원용 태블릿모니터 도입</li>
+                    </ul>
+                </dd>
+                <!-- no21 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">KB국민은행 디지탈창구 고도화 사업 수주</h2>
+                        <span class="stxt">계약체결일 : 2018.05.31</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 85</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)국민은행</li>
+                        <li>계약 체결일 : 2018.05.31</li>
+                        <li>사업 기간 : 2018.06.01 ~ 2018.11.30 </li>
+                        <li>사업 내용 : KB국민은행 디지털 서식관리 시스템 고도화</li>
+                    </ul>
+                </dd>
+                <!-- no20 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">태블릿모니터(TH-1500TB) 200대 공급계약</h2>
+                        <span class="stxt">계약체결일 : 2018.03.28</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 72</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)광주은행</li>
+                        <li>계약 체결일 : 2018.03.28</li>
+                        <li>사업 기간 : 2018.03.28 ~ 2018.12.31 </li>
+                        <li>사업 내용 : Digital 창구시스템 구축에 따른 직원용 태블릿모니터 도입</li>
+                    </ul>
+                </dd>
+                <!-- no19 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">영업점 디지털화 PPR시스템 구축을 위한 태블릿모니터(TH-1500TB) 550대 공급계약</h2>
+                        <span class="stxt">계약체결일 : 2018.01.10</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 100</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)전북은행</li>
+                        <li>계약 체결일 : 2018.01.10</li>
+                        <li>사업 기간 : 2018.01.10 ~ 2018.06.09 </li>
+                        <li>사업 내용 : Digital 창구시스템 구축에 따른 직원용 태블릿모니터 도입</li>
+                    </ul>
+                </dd>
+                <!-- //no19 -->
+                <!-- no18 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">우리은행 수신해지 추출 자동화(DASS 솔루션) 시스템 구축</h2>
+                        <span class="stxt">계약체결일 : 2017.12.01</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 98</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)우리은행</li>
+                        <li>계약 체결일 : 2017.12.01</li>
+                        <li>사업 기간 : 2017.12.01 ~ 2018.03.30 </li>
+                        <li>사업 내용 : 우리은행 수신해지서류 추출 자동화 시스템 구축 사업</li>
+                    </ul>
+                </dd>
+                <!-- //no18 -->
+                <!-- no17 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">태블릿모니터(TH-1500TB) 800대 공급계약</h2>
+                        <span class="stxt">계약체결일 : 2017.11.24</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 120</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : (주)광주은행</li>
+                        <li>계약 체결일 : 2017.11.24</li>
+                        <li>사업 기간 : 2017.11.24 ~ 2018.05.30 </li>
+                        <li>사업 내용 : Digital 창구시스템 구축에 따른 직원용 태블릿모니터 도입</li>
+                    </ul>
+                </dd>
+                <!-- //no17 -->
+                <!-- no16 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">KB국민은행 디지털 서식관리 시스템 구축</h2>
+                        <span class="stxt">계약체결일 : 2017.06.12</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 233</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : KB국민은행</li>
+                        <li>계약 체결일 : 2017.06.12</li>
+                        <li>사업 기간 : 2017.06.12 ~ 2018.02.11 </li>
+                        <li>사업 개요 : 디지털 서식기반의 Paperless, 디지털안내장 발송 시스템 구축, 모바일 연계 대면서비스 강화를 위하여 디지털 창구 프로세스 구축을 추진</li>
+                        <li>추진 목표 :</li>
+                        <pre> - 창구에서 많이 발생하는 PPR서식 위주로 디지털화를 추진하여, 직원 및 고객이 빠르고 편리한 서식작성 및 활용도모</pre>
+                        <pre> - 내점고객 본인정보 확인, 업무 및 상담직원 선택, 디지털서식 작성, 상품안내장 확인 등 新객장업무 Process 구축</pre>
+                        <li>주요 개발 내용 :</li>
+                        <pre> - 업무별/상품별 필수 디지털서식 및 필수항목, 통합단말 연동정보 등을 관리</pre>
+                        <pre> - 디지털서식 발생 이미지 연계 관련 PPR시스템 및 이미지콜드시스템 대응개발</pre>
+                        <pre> - 전표/장표 데이터연계 및 마감업무 수정, 물류/서고 예외처리 등 PPR시스템 대응개발</pre>
+                    </ul>
+                </dd>
+                <!-- //no16 -->
+                <!-- no15 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">NH농협은행 모바일오피스 고도화(태블릿브랜치 통합플랫폼)구축</h2>
+                        <span class="stxt">계약체결일 : 2017.04.28</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 480</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : NH농협은행</li>
+                        <li>계약 체결일 : 2017.04.28</li>
+                        <li>사업 기간 : 2017.04.28 ~ 2017.11.02 </li>
+                        <li>사업 내용 : 전자서식을 이용한 모바일 오피스 플랫폼 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no15 -->
+                <!-- no14 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">우리카드사 BPR센터용 초고속스캐너 공급</h2>
+                        <span class="stxt">계약체결일 : 2017.02.28</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 320</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 우리카드</li>
+                        <li>계약 체결일 : 2017.02.28</li>
+                        <li>사업 기간 : 2017.02.28 ~ 2017.03.27 </li>
+                        <li>사업 내용 : 카드 신청서 이미지 스캔용 대용량 초고속스캐너 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no14 -->
+                <!-- no13 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">영업점 보관장표 후선집중화 관련자원 구매계약 체결(해지문서 분류 시스템)</h2>
+                        <span class="stxt">계약체결일 : 2016.07.08</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 498</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 국민은행</li>
+                        <li>계약 체결일 : 2016.07.08</li>
+                        <li>사업 기간 : 2016.07.08 ~ 2016.12.07 </li>
+                        <li>사업 내용 : 은행 거래고객의 거래신청서에서해지서류 자동분류 시스템 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no13 -->
+                <!-- no12 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">NH농협은행 교육금고(강원사랑상품권) 개발계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2016.05.09</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 369</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : NH농협은행</li>
+                        <li>계약 체결일 : 2016.05.09</li>
+                        <li>사업 기간 : 2016.05.09 ~ 2016.06.24</li>
+                        <li>사업 내용 : 강원 사랑 상품권 처리 시스템 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no12 -->
+                <!-- no11 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">차세대 시스템 구축에 따른 대응개발 추진계약 체결(이미지, 방카슈랑스, 퇴직연금부분)</h2>
+                        <span class="stxt">계약체결일 : 2016.03.02</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 465</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : ㈜광주은행</li>
+                        <li>계약 체결일 : 2016.03.02</li>
+                        <li>사업 기간 : 2016.03.02 ~ 2016.11.30 </li>
+                        <li>사업 내용 : 하나/외환 IT통합을 위한 어음교환 업무 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no11 -->
+                <!-- no10 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">상품권처리용 RS기(E-1150) 도입계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2016.01.29</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 277</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : ㈜발렉스</li>
+                        <li>계약 체결일 : 2016.01.29</li>
+                        <li>사업 기간 : 2016.01.29 ~ 2016.02.29</li>
+                        <li>사업 내용 : 상품권 처리용 RS E-1150 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no10 -->
+                <!-- no9 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">아산시 OCR 시스템구축 도입계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2016.01.22</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 772</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 하나아이앤에스</li>
+                        <li>계약 체결일 : 2016.01.22</li>
+                        <li>사업 기간 : 2016.01.04 ~ 2016.02.03</li>
+                        <li>사업 내용 : 아산시 OCR시스템 구축 / 지방세 OCR엔진 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no9 -->
+                <!-- ####################################################################################### -->
+                <!-- no8 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">어음교환 지점처리방식 전환 구축을 위한 RS기(저속 122대) 구매 계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2015.12.21</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 874</span>
+                    </a>
+                </dt>
+                <dd>
+                    <img class="responsive" src="img/dtimg8.jpg" alt="" />
+                    <ul class="bu">
+                        <li>고객사 : 하나은행</li>
+                        <li>계약 체결일 : 2015.12.21</li>
+                        <li>사업 기간 : 2015.12.21~2016.02.29</li>
+                        <li>사업 내용 : 하나은행 전점 어음교환 방식 전환에 따른 스캐너 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no8 -->
+
+                <!-- no7 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">농협 BPR 신 시스템 및 창구 이미지시스템 구축 Project 개발</h2>
+                        <span class="stxt">계약체결일 : 2015.12.14</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 652</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 농협은행</li>
+                        <li>계약 체결일 : 2015.12.14</li>
+                        <li>사업 기간 : 2015.12.14~2017.03.03</li>
+                        <li>사업 내용
+                            <ul>
+                                <li>BPR 프로세스 개선 및 재구축</li>
+                                <li>감사시스템과 창구업무 이미지시스템 간 관련 서류 이미지조회를 위한 연계 개발</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </dd>
+                <!-- //no7 -->
+
+                <!-- no6 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">하나/외환 어음교환 지점처리방식 구축을 위한 개발용역 및 솔루션 구매 Project 수주</h2>
+                        <span class="stxt">계약체결일 : 2015.10.28</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 657</span>
+                    </a>
+                </dt>
+                <dd>
+                    <div class="biz_sysbox">
+                        <ion-scroll zooming="true" direction="xy" style="width: 100%; min-height:300px">
+
+                            <img class="responsive" src="img/dtimg6.jpg" alt="" />
+                            <img class="responsive" src="img/dtimg6_1.jpg" alt="" />
+                            <!-- div style="width: 900px; height: 722px; background: url('img/dtimg6.jpg') no-repeat"></div -->
+                            <!-- div style="width: 900px; height: 722px; background: url('img/dtimg6_1.jpg') no-repeat"></div -->
+                        </ion-scroll>
+                    </div>
+                    <ul class="bu">
+                        <li>고객사 : 하나은행</li>
+                        <li>계약 체결일 : 2015.10.28</li>
+                        <li>사업 기간 : 2015.10.28~2016.02.27</li>
+                        <li>사업 내용: 어음교환 영업점 방식 전환 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no6 -->
+
+                <!-- no5 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">국민은행 전표전자화 시스템 구축 자원(초고속 스캐너) 구매 계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2015.10.08</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 634</span>
+                    </a>
+                </dt>
+                <dd>
+                    <img class="responsive" src="img/dtimg5.jpg" alt="" />
+                    <ul class="bu">
+                        <li>고객사 : 국민은행</li>
+                        <li>계약 체결일 : 2015.10.08</li>
+                        <li>사업 기간 : 2015.10.08~2015.12.09</li>
+                        <li>사업 내용: 스캔 센터용 초고속스캐너 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no5 -->
+                <!-- no4 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">하나/외환 IT통합 프로젝트(대행업무) 개발 사업 수주</h2>
+                        <span class="stxt">계약체결일 : 2015.10.01</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 435</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : 하나은행</li>
+                        <li>계약 체결일 : 2015.10.01</li>
+                        <li>사업 기간 : 2015.10.01~2016.06.30</li>
+                        <li>사업 내용: 하나/외환 IT통합을 위한 어음교환 업무 구축</li>
+                    </ul>
+                </dd>
+                <!-- //no4 -->
+                <!-- no3 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">NH농협은행 2015년 모바일오피스 고도화(I/F연계) 구축 Project 수주</h2>
+                        <span class="stxt">계약체결일 : 2015.08.13</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 783</span>
+                    </a>
+                </dt>
+                <dd>
+                    <ul class="bu">
+                        <li>고객사 : NH농협은행</li>
+                        <li>계약 체결일 : 2015.08.13</li>
+                        <li>사업 기간 : 2015.08.13~2015.12.31</li>
+                        <li>사업 내용 : NH농협은행 태블릿브랜치 구축을 위한 Legacy 연계 개발</li>
+                    </ul>
+                </dd>
+                <!-- //no3 -->
+                <!-- no2 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">기업은행 어음교환용 이미지스캐너(100매급) 구입 계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2015.08.13</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 692</span>
+                    </a>
+                </dt>
+                <dd>
+                    <img class="responsive" src="img/dtimg8.jpg" alt="" />
+                    <ul class="bu">
+                        <li>고객사 : 기업은행</li>
+                        <li>계약 체결일 : 2015.08.03</li>
+                        <li>사업 기간 : 2015.07.17~2016.07.16</li>
+                        <li>사업 내용 : 기업은행 121개 영업점 어음교환용 이미지 스캐너 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no2 -->
+
+                <!-- no1 -->
+                <dt>
+                    <a href="">
+                        <h2 class="noticetit">하나은행 정보화점 어음교환용 R/S기 구매 계약 체결</h2>
+                        <span class="stxt">계약체결일 : 2015.08.13</span>
+                        <span class="stxt">이름 : 관리자</span>
+                        <span class="stxt">조회수 : 515</span>
+                    </a>
+                </dt>
+                <dd>
+                    <img class="responsive" src="img/dtimg8.jpg" alt="" />
+                    <ul class="bu">
+                        <li>고객사 : 하나은행</li>
+                        <li>계약 체결일 : 2015.07.31</li>
+                        <li>사업 기간 : 2015.07.31~2015.08.21</li>
+                        <li>사업 내용 : 하나은행 18개 영업점 어음교환용 R/S기 공급</li>
+                    </ul>
+                </dd>
+                <!-- //no1 -->
+            </dl>
+        </div>
+
+        <div class="bar bar-footer">
+            <address>주식회사 태화이노베이션
+                <br />서울특별시 성동구 아차산로17길 48, 성수SK V1센터1 912,913호
+                <br /> 고객센터 : 02-6952-9645 E-mail : taehwainno@taehwainno.com</address>
+            <!-- <button class="button button-clear pull-right">Right</button> -->
+        </div>
+    </ion-content>
+</ion-view>

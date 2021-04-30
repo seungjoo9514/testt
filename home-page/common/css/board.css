@@ -1,0 +1,52 @@
+
+
+table.t_nt { border-collapse: collapse; width: 100%; margin:0; border-top: 2px solid #3b3b3b; border-bottom: 1px solid #3b3b3b; border-right: 1px hidden #fff; background: #fff; }
+table.t_nt caption { text-align:right; display:none; }
+* html table.t_nt { border-right: 1px solid #fff; }
+*:first-child+html table.t_nt { border-right: 1px solid #fff; }
+table.t_nt th, table.t_nt td { border: 1px solid #ddd; border-width: 1px 1px 0px 0px; padding: 20px 10px; font-size:.875em}
+table.t_nt th { font-weight: normal; text-align: inherit; }
+table.t_nt thead th, table.t_nt tfoot th { border-width: 0px 1px 1px 0px; border-color: #e0e0e0; background: #ececec; color: #000; 
+text-align: center; vertical-align: middle; }
+table.t_nt tbody th { background:#F7F7F7; color:#333; }
+table.t_nt td.lt {text-align:left; padding-left:10px}
+
+table.t_nt.ct tr {text-align:center}
+
+.subtxt + .t_nt {margin-top:20px}
+
+table.t_nt + .paging,
+table.t_nt + .btn_right {margin-top:30px} 
+.paging + .btn_right {margin-top:10px}
+.paging {text-align:center; font-size:0}
+
+.paging a {display:inline-block; width:40px; height:40px; line-height:40px; vertical-align:middle; border:1px solid #c4c4c4; margin-left:13px}
+.paging a:first-child {margin-left:0}
+.prev, .fprev, .fnext, .next {text-indent:-9999px; background:#e1e1e1 url(../../image/common/pagingicoset.png) no-repeat 16px 11px}
+
+.prev {background-position:-27px 11px}
+.next {background-position:15px -16px}
+.fnext {background-position:-27px -16px}
+.paging a.num.on {color:#ea5421; font-weight:bold}
+.paging a.num {font-size:16px}
+.paging a.num:hover {background:#e1e1e1}
+
+.table_colset {overflow:hidden}
+.table_col {width:48%; float:left}
+.table_col + .table_col {margin-left:4%}
+/*
+.paging a {display:inline-block; width:30px; height:30px; line-height:30px}
+.fprev, .prev, .fnext, .next {text-indent:-9999px; background:#e1e1e1 url(../../image/common/pagingicoset.png) no-repeat 12px 9px}
+.prev {background-position:-25px 9px}
+.next {background-position:12px -14px}
+.fnext {background-position:-25px -14px}
+.paging a.num.on {color:#ea5421; font-weight:bold}
+.paging a.num {border:1px solid #e1e1e1}
+.paging a.num:hover {background:#e1e1e1}
+*/
+.schset {overflow:hidden; margin-bottom:5px}
+.schset p.subtxt {padding-top:11px}
+.schset p + div {position:absolute; top:0; right:20px}
+
+
+.boardlink:hover { text-decoration:underline}

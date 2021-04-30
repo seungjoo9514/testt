@@ -1,0 +1,74 @@
+﻿.full {@include posa(false, false, false, false); width:100%; height:450px; overflow:hidden; background:url(../img/tabletbg.jpg) no-repeat 0 0; background-size:cover}
+.main_tit {text-align:center; @include font-size(100px); color:#fff; margin:0; padding:0;
+	&.type1 {@include font-size(60px);}
+	&.type2 {@include font-size(18px); margin-top:20px; line-height:1.7}
+	&:first-child {margin-top:90px}
+}
+
+
+.box_sixm_outer {width: 104px; text-align: center; position: relative; top: 387px; margin: 0 auto; overflow:hidden;
+	.box_sixm {position:relative; display:block;
+		&:after {content:""; display:block; position:absolute; top:50%; left:50%; margin:-11px 0 0 -7px; width:13px; height:22px; background:url(../img/main_linkico.png) no-repeat 0 0}
+	}
+}
+
+.box-5 {
+    width: 0;
+    border-bottom: 30px solid #b91515;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+.box-7 {
+    width: 104px;
+    height: 60px;
+    background-color: #b91515;
+}
+.box-6 {
+    width: 0;
+    border-top: 30px solid #b91515;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+.m1 {overflow:hidden; 
+	.mbox {position:relative; width:33.3%; height:100px; background:#ea5545; float:left; display:inline; overflow:hidden;
+		.subtit {color:#fff; margin:10px 0 0 10px}
+		&:after {content:""; display:block; position:absolute; bottom:10px; right:10px; width:45px; height:37px; background:url(../img/main/m1icoset.png) no-repeat 0 0}
+		&:last-child {width:33.4%}
+		&.type1 {background:#91180b;
+			&:after {background-position:-69px 0; width:45px; height:48px}
+		}
+		&.type2 {background:#91370b;
+			&:after {background-position:-155px 0; width:37px; height:43px}
+		}
+	}
+}
+.m2 { 
+	.m2head {overflow:hidden; width:100%; background:#f2f2f2; border-bottom:1px solid #fff; height:35px;
+		.subtit {@include font-size(14px); color:#ea5421; line-height:35px; padding-left:20px}
+	}
+	.m2cont {overflow:hidden; width:100%; height:70px; background:#f2f2f2;
+		.m2blit {margin:20px 20px 0 20px;
+			li {@include font-size(12px); overflow:hidden; line-height:1.5;
+				a {display:block;
+					.date {float:right}
+					.txtcut {white-space:nowrap; text-overflow:ellipsis; overflow:hidden; width:70%; display:inline-block }
+				}
+			}
+		}
+	}
+}
+
+.m3 {text-align:center; width:100%; height:30px; background:#f2f2f2; margin-top:8px; line-height:30px;
+	.cuslink { }
+}
+@include dp_mobile {
+	.main_tit {text-align:center; @include font-size(48px); color:#fff; margin:0; padding:0;
+
+		&.type1 {@include font-size(32px);}
+		&.type2 {@include font-size(12px); margin-top:30px; line-height:1.7}	
+	}
+}
+	
+.tab + .m2 {margin-top:20px}	

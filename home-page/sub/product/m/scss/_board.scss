@@ -1,0 +1,28 @@
+﻿/* 테이블 스타일 */
+.t_nt {@include default_table; border-right:1px hidden #fff;
+	th,
+	td {border: 1px solid #ddd; border-width: 0px 0px 1px 0px; vertical-align:middle}
+	th {font-weight: normal; text-align: inherit; padding: 15px 10px 13px 10px}
+	td {padding: 15px 10px 15px 10px;
+		&.ct {text-align:center}
+	}
+	thead { 
+		th {border: 1px solid #bbd4ea; border-width: 0px 0px 1px 0px; background:#fff; color:#1f5071; text-align: center; vertical-align: middle; font-weight:bold;}
+	}
+	tfoot {@extend thead}
+	tbody { 
+		th {text-align:center; background: #f9f9f9; color: #000}
+	}
+	&.type1 {
+		th,
+		td {@include font-size(12px); padding:10px; text-align:center}
+	}
+}
+
+.schtxt {@include font-size(12px); margin-left:10px; margin-bottom:15px; display:inline-block; white-space:nowrap}
+
+* html .t_nt {border-right: 1px solid #fff}
+*:first-child+html .t_nt {border-right: 1px solid #fff}
+
+//페이지 네비게이션
+.page_navi {text-align:center; margin: 10px 0 0 0; padding: 0}

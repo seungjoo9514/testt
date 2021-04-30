@@ -1,0 +1,1540 @@
+# Webalizer V2.23-05 Incremental Data - 02/28/2016 13:44:43
+2016 2 28 13 44 43
+4852 2734 319 80 52 80 161880592 1018 499 0
+15 8 649 1 28
+266 258 15682266 27 30 25
+247 199 10029726 35 68 28
+198 102 5252956 19 24 15
+230 192 16262469 25 38 22
+46 41 1885949 21 19 13
+401 123 7938128 18 35 14
+26 22 277087 10 23 10
+12 9 188169 11 9 9
+65 39 3155340 15 17 11
+73 55 3584948 14 11 8
+94 84 4416489 16 27 17
+972 248 11406189 25 84 25
+79 68 1861486 20 45 25
+210 90 5142552 16 35 12
+181 145 9476865 32 58 24
+125 74 4818258 22 31 17
+103 67 8894797 28 36 18
+155 90 3735836 30 33 22
+87 70 3127346 21 53 21
+35 29 3113920 20 24 15
+145 91 5741517 17 34 15
+169 107 5118958 23 55 23
+308 135 7690012 25 49 21
+109 96 7659002 19 33 20
+390 193 11423798 30 52 25
+60 50 488397 21 52 22
+26 22 3118068 13 11 8
+40 35 390064 15 32 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+256 154 5120893 66
+68 38 2731218 29
+155 104 4561639 38
+73 56 7804948 39
+45 40 1398188 13
+123 106 3502034 56
+372 92 3278996 35
+171 147 10855057 70
+122 96 7240815 44
+211 138 7151861 50
+127 88 10838143 21
+350 214 13484568 36
+769 167 8610934 61
+52 43 394062 34
+220 72 2717019 29
+46 38 270541 34
+109 93 5199200 46
+384 241 16978563 45
+288 175 10366836 58
+32 20 152629 18
+250 80 5311349 34
+179 168 9847441 45
+205 144 8097984 50
+245 220 15965674 67
+0
+0
+0
+2734
+0
+0
+0
+0
+0
+4
+0
+0
+472
+0
+1642
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/sub/promotion/detailview1.html
+0 18 0 127656 7 1
+/image/sub/loc_home.png
+1 95 0 31779 0 0
+/image/sub/loc_bar.png
+1 95 0 34614 0 0
+/image/content/company/his_arrico.png
+1 8 0 6120 0 0
+/common/css/sub.css
+0 149 0 157056 0 0
+/image/sub/subvisual_img1.png
+1 95 0 482031 0 0
+/common/css/main.css
+0 148 0 327608 0 0
+/image/content/business/sysimg01.jpg
+1 7 0 941454 0 0
+/image/common/w3c.png
+1 129 0 146648 0 0
+/image/main/m2_pic1.jpg
+1 52 0 1152540 0 0
+/sub/promotion/detailview7.html
+0 24 0 169440 3 2
+/sub/promotion/promotion01.html
+0 53 0 573884 26 12
+/font/NanumGothic.eot
+0 104 0 18324240 0 0
+/common/js/html5shiv.js
+0 154 0 161772 0 0
+/image/main/m1_linkbtn.png
+1 47 0 57564 0 0
+/common/css/common.css
+0 146 0 319440 0 0
+/image/content/business/sysimg02_tit.jpg
+1 7 0 103902 0 0
+/image/content/company/ceosing.png
+1 12 0 85800 0 0
+/font/NanumGothic.ttf
+0 33 0 61423747 0 0
+/image/content/promotion/dtimg1.jpg
+1 8 0 438130 0 0
+/image/content/business/biz_hexbox.png
+1 18 0 47145 0 0
+/image/main/m1_icoset.png
+1 47 0 147969 0 0
+/sub/human/human02.html
+0 21 0 139041 11 3
+/image/content/company/crape.png
+1 8 0 199280 0 0
+/image/main/m31_infoimg.png
+1 47 0 75317 0 0
+/image/main/morebtn.png
+1 47 0 39360 0 0
+/image/sub/loc_arrow.png
+1 70 0 25700 0 0
+/image/main/visimg2.jpg
+1 52 0 18789675 0 0
+/image/content/human/hu_c04img1.png
+1 5 0 102390 0 0
+/image/main/visimg3.jpg
+1 54 0 7041792 0 0
+/image/common/pagingicoset.png
+1 19 0 16152 0 0
+/sub/promotion/detailview5.html
+0 23 0 159827 5 3
+/image/common/pageready.jpg
+1 29 0 296768 0 0
+/image/content/business/sysimg01_tit.jpg
+1 7 0 201096 0 0
+/image/main/m_visctricoset.png
+1 49 0 58695 0 0
+/sub/product/product02.html
+0 38 0 205732 18 9
+/image/main/visimg1.jpg
+1 54 0 17844667 0 0
+/image/common/tabsetbar.jpg
+1 12 0 9008 0 0
+/sub/company/company01.html
+0 66 0 515592 16 19
+/image/content/promotion/dtimg3.jpg
+1 4 0 550875 0 0
+/_gabia/webalizer/usage_201602.html
+0 26 0 2714271 26 25
+/common/js/jquery-1.11.3.min.js
+0 154 0 6237205 0 0
+/common/css/content.css
+0 148 0 224378 0 0
+/sub/company/company02.html
+0 39 0 261144 14 5
+/sub/business/business02.html
+0 51 0 323544 15 4
+/image/common/pop.jpg
+1 47 0 4572197 0 0
+/common/css/reset.css
+0 149 0 56952 0 0
+/image/content/business/sysimg02.jpg
+1 7 0 1248318 0 0
+/sub/human/human01.html
+0 28 0 219520 11 7
+/image/content/company/cpinfo_img1.jpg
+1 13 0 2465832 0 0
+/common/js/layout.js
+0 210 0 179773 0 0
+/image/content/human/hulogo.png
+1 6 0 29376 0 0
+/_gabia/webalizer/usage_201601.html
+0 1 0 124263 1 1
+/sub/business/business03.html
+0 56 0 335944 11 7
+/image/main/m2_pic3.jpg
+1 51 0 1008675 0 0
+/image/content/company/gretting_img1.jpg
+1 12 0 755052 0 0
+/image/common/toplogo.jpg
+1 134 0 291200 0 0
+/sub/promotion/detailview6.html
+0 23 0 159206 3 1
+/image/content/human/talent_boxset.png
+1 6 0 121200 0 0
+/
+0 277 0 3560466 246 82
+/image/content/business/imgsysimg02.jpg
+1 8 0 629360 0 0
+/sub/company/company03.html
+0 38 0 275424 11 12
+/common/js/main.js
+0 76 0 264485 0 0
+/sub/promotion/detailview4.html
+0 26 0 182806 19 1
+/image/content/promotion/dtimg4.jpg
+1 4 0 565683 0 0
+/image/content/company/load.jpg
+1 8 0 228221 0 0
+/common/css/board.css
+0 151 0 148302 0 0
+/image/main/m2_pic2.jpg
+1 51 0 1259595 0 0
+/common/css/default.css
+0 153 0 10676 0 0
+/sub/promotion/detailview2.html
+0 14 0 101556 2 2
+/sub/promotion/detailview8.html
+0 19 0 133760 1 3
+/sub/product/product01.html
+0 35 0 189385 11 8
+/image/content/human/hu_tit01.png
+1 6 0 55710 0 0
+/sub/company/company04.html
+0 30 0 182070 11 2
+/image/main/m_visctrimg.png
+1 49 0 98126 0 0
+/sub/promotion/detailview3.html
+0 13 0 92989 2 1
+/sub/business/business01.html
+0 62 0 541322 8 5
+/image/content/promotion/dtimg2.jpg
+1 3 0 76506 0 0
+/image/common/footlogo.png
+1 130 0 241546 0 0
+/sub/promotion/detailview.html
+0 12 0 81312 8 3
+# End Of Table - urls
+# -sites- (monthly)
+195.154.226.90
+0 1 0 0 0 0
+-
+183.81.81.175
+0 2 1 13258 1 1454499343
+-
+125.209.235.179
+0 8 6 474362 2 1456004774
+/
+191.232.136.116
+0 3 3 18803 2 1454482476
+/sub/company/company02.html
+62.210.148.247
+0 6 5 34315 1 1455875219
+/sub/company/company03.html
+187.1.80.162
+0 11 11 136029 1 1454374373
+/
+180.76.15.138
+0 2 2 19041 2 1455693931
+/
+157.55.39.219
+0 3 2 104904 1 1454298651
+/sub/business/business01.html
+64.246.165.170
+0 2 1 13258 1 1456307301
+/
+222.122.190.116
+0 1 1 13042 1 1455945976
+/
+40.77.167.72
+0 7 7 2370401 1 1456448355
+/sub/promotion/detailview4.html
+211.221.81.135
+0 39 38 2308904 1 1454345066
+/sub/product/product02.html
+175.126.177.137
+0 4 1 13690 2 1456516000
+-
+186.247.136.62
+0 28 28 1284199 1 1454387180
+/
+192.99.107.234
+0 2 1 13258 1 1454371222
+/
+131.253.25.239
+0 15 15 2479627 0 0
+-
+85.25.103.119
+0 1 1 13042 1 1455298817
+/
+180.76.15.24
+0 1 0 216 0 0
+-
+69.197.177.26
+0 6 5 42144 1 1455832429
+/sub/company/company01.html
+203.217.240.67
+0 2 2 26084 2 1455427210
+/
+66.102.6.109
+0 7 7 30562 1 1455578417
+/
+216.2.83.26
+0 2 2 0 2 1455648787
+/
+157.55.39.205
+0 1 1 6776 1 1454601157
+/sub/promotion/detailview.html
+203.217.246.195
+0 3 3 39126 3 1456549531
+/
+180.76.15.14
+0 2 0 0 0 0
+-
+125.209.235.180
+0 5 5 62844 2 1456610243
+/
+222.122.190.85
+0 2 1 13258 1 1454569488
+/
+115.90.70.188
+0 72 54 4130446 1 1454402896
+/sub/company/company04.html
+78.46.50.246
+0 6 5 34315 1 1456292241
+/sub/company/company03.html
+180.76.15.22
+0 1 1 7248 1 1454750346
+/sub/company/company03.html
+222.122.190.52
+0 1 1 13042 1 1455775136
+/
+157.55.39.50
+0 1 1 7812 1 1455500153
+/sub/company/company01.html
+40.77.167.0
+0 12 12 89263 2 1455385179
+/sub/company/company03.html
+69.30.213.82
+0 15 12 91522 3 1455370571
+/sub/promotion/detailview8.html
+207.46.13.136
+0 1 1 7248 1 1455114055
+/sub/company/company03.html
+157.55.39.250
+0 2 2 3204 0 0
+-
+222.122.190.123
+0 2 2 26084 2 1456120779
+/
+157.55.39.118
+0 1 1 6069 1 1454769666
+/sub/company/company04.html
+173.234.159.250
+0 4 3 21715 1 1455073603
+/sub/promotion/detailview3.html
+40.77.167.39
+0 3 3 10172 1 1454481169
+/sub/product/product02.html
+191.232.136.10
+0 3 2 4974 0 0
+-
+111.172.10.169
+0 3 0 648 1 1456452332
+-
+180.76.15.23
+0 2 1 7840 1 1456587385
+/sub/human/human01.html
+191.232.136.142
+0 3 3 11397 1 1454557228
+/sub/company/company02.html
+157.55.39.23
+0 3 3 22128 1 1454374547
+/sub/human/human02.html
+69.30.198.242
+0 2 1 7247 1 1456118993
+/sub/promotion/detailview4.html
+191.232.136.46
+0 2 2 16239 1 1454520319
+/sub/product/product01.html
+66.249.84.98
+0 4 1 13690 1 1456169449
+/
+157.55.39.69
+0 21 3 7489 0 0
+-
+118.33.114.94
+0 51 35 2108153 1 1456421657
+/sub/company/company04.html
+91.121.211.59
+0 9 8 56717 1 1454377515
+/sub/promotion/detailview8.html
+89.163.148.58
+0 6 5 35218 1 1455544066
+/sub/promotion/detailview8.html
+192.99.107.183
+0 2 1 13258 1 1455560256
+/
+66.249.84.99
+0 4 2 26516 2 1456441351
+/
+14.167.233.204
+0 2 1 13258 1 1455042085
+-
+5.9.85.4
+0 6 5 42144 1 1455611767
+/sub/company/company01.html
+222.122.190.47
+0 1 1 13042 1 1455686647
+/
+40.77.167.65
+0 1 1 7248 1 1454667813
+/sub/company/company03.html
+180.76.15.26
+0 3 2 20882 2 1456057414
+/
+180.76.15.141
+0 2 2 7997 1 1454997519
+/sub/human/human01.html
+39.7.15.192
+0 133 44 2443079 1 1454525815
+/sub/company/company04.html
+216.163.188.228
+0 1 1 13042 1 1454706601
+/
+80.248.225.150
+0 4 1 13690 1 1456283690
+/
+180.76.15.136
+0 2 2 8888 1 1456294120
+/sub/business/business01.html
+66.249.84.100
+0 4 3 39342 3 1456259328
+/
+192.99.107.206
+0 1 1 13042 1 1454974190
+/
+112.216.249.82
+0 12 12 707010 1 1455816928
+/
+125.209.235.181
+0 3 3 54075 2 1456267663
+/
+180.76.15.137
+0 1 1 6621 1 1454638781
+/sub/human/human02.html
+199.30.25.25
+0 4 4 2822611 0 0
+-
+1.214.91.186
+0 1055 233 13099398 7 1456399673
+/
+125.209.235.173
+0 4 4 780038 2 1456106885
+/
+157.55.39.115
+0 11 11 48024 1 1456631935
+/sub/promotion/promotion01.html
+121.162.152.10
+0 30 29 2047925 1 1455193431
+/
+69.58.178.56
+0 12 11 86024 1 1455567911
+/sub/product/product02.html
+121.131.147.230
+0 414 113 6195561 3 1456439362
+/sub/promotion/detailview3.html
+125.209.235.182
+0 3 3 175504 0 0
+-
+222.122.190.102
+0 2 1 13258 1 1454546515
+/
+180.76.15.144
+0 4 3 36912 3 1456231467
+/sub/promotion/promotion01.html
+180.76.15.27
+0 3 2 21872 3 1456636594
+-
+58.75.255.88
+0 87 37 2157563 1 1455796718
+/sub/promotion/detailview2.html
+191.232.136.94
+0 10 0 0 0 0
+-
+203.217.242.195
+0 1 1 13042 1 1455944590
+/
+223.62.67.131
+0 50 38 3745084 1 1454606694
+/sub/company/company02.html
+69.30.210.242
+0 18 14 105678 4 1456271733
+/sub/promotion/detailview4.html
+203.217.243.67
+0 1 1 13042 1 1455167038
+/
+180.76.15.20
+0 1 1 5999 1 1456027685
+/sub/business/business03.html
+118.130.19.90
+0 51 35 2096580 1 1455615530
+/sub/human/human02.html
+180.76.15.148
+0 2 2 15421 1 1455393236
+/
+112.221.76.154
+0 30 29 2047925 1 1455277070
+/
+179.181.112.211
+0 27 27 875419 1 1454310149
+/
+182.248.150.15
+0 9 9 117378 9 1455411253
+/
+157.55.39.105
+0 15 14 2422116 5 1456325773
+/sub/company/company02.html
+203.217.240.131
+0 1 1 13042 1 1455858923
+/
+46.4.116.197
+0 4 3 21715 1 1454709163
+/sub/promotion/detailview3.html
+80.255.192.237
+0 1 0 216 0 0
+-
+40.77.167.20
+0 2 2 13226 2 1454776632
+/sub/product/product02.html
+140.117.150.103
+0 3 0 648 1 1455952639
+-
+157.55.39.44
+0 1 1 3047 0 0
+-
+91.121.169.194
+0 6 5 35218 1 1455900541
+/sub/promotion/detailview8.html
+192.99.107.184
+0 2 1 13258 1 1455229030
+/
+104.131.76.214
+0 1 1 13042 1 1454909403
+/
+62.210.90.118
+0 6 5 42144 1 1454710958
+/sub/company/company01.html
+38.100.21.78
+0 11 11 85948 1 1456471796
+/sub/company/company01.html
+207.46.13.29
+0 8 8 145496 3 1455322084
+/sub/promotion/detailview.html
+121.189.37.119
+0 1 1 13042 1 1456032126
+/
+125.209.235.186
+0 2 2 13946 1 1456435844
+/
+199.30.25.15
+0 8 8 2372213 0 0
+-
+191.232.136.26
+0 1 1 5414 1 1454304330
+/sub/product/product02.html
+40.77.167.46
+0 7 6 53801 1 1454581678
+/sub/company/company03.html
+180.76.15.154
+0 1 1 13042 1 1454293839
+/
+183.80.130.13
+0 2 1 13258 1 1454862916
+-
+62.212.73.211
+0 6 5 42144 1 1455544406
+/sub/company/company01.html
+157.55.39.30
+0 1 1 5411 1 1455760341
+/sub/product/product01.html
+223.62.203.92
+0 44 44 3808972 1 1454570874
+/sub/company/company02.html
+180.76.15.149
+0 3 3 26082 3 1456451190
+/sub/company/company02.html
+157.55.39.65
+0 1 1 5999 1 1454429226
+/sub/business/business03.html
+180.76.15.159
+0 5 5 48395 5 1456081313
+/sub/product/product02.html
+157.55.39.254
+0 2 2 19111 2 1455226375
+/sub/company/company04.html
+51.255.207.26
+0 6 5 42144 1 1456123808
+/sub/company/company01.html
+222.122.190.115
+0 1 1 13042 1 1455517980
+/
+65.55.210.84
+0 17 17 1149785 0 0
+-
+180.76.15.150
+0 5 4 37285 3 1455971679
+/
+2.239.9.67
+0 4 4 19647 1 1454346449
+/
+180.76.15.146
+0 2 2 15421 1 1454577181
+/
+5.9.73.227
+0 6 5 42144 1 1455904785
+/sub/company/company01.html
+124.197.175.5
+0 43 37 3744956 2 1454553466
+/sub/company/company02.html
+157.55.39.79
+0 4 4 23539 2 1456448317
+/sub/promotion/detailview8.html
+125.209.235.177
+0 5 5 228546 0 0
+-
+138.201.16.75
+0 1 1 13042 1 1455476519
+/
+125.209.235.168
+0 8 8 51396 1 1455235297
+/
+207.46.13.123
+0 27 2 4068 0 0
+-
+125.209.235.176
+0 6 6 43233 0 0
+-
+69.30.234.2
+0 6 5 42144 1 1456664848
+/sub/company/company01.html
+180.76.15.139
+0 2 1 13042 1 1455389485
+/
+189.15.13.48
+0 28 28 1284199 1 1454347073
+/
+222.234.185.113
+0 251 249 13739278 6 1456443943
+/sub/company/company01.html
+199.58.86.206
+0 6 5 35218 1 1455399284
+/sub/promotion/detailview8.html
+183.206.168.176
+0 3 0 648 3 1455792178
+-
+180.76.15.134
+0 2 1 5627 1 1454914530
+/sub/product/product01.html
+188.165.237.64
+0 2 0 432 1 1456581891
+-
+77.248.252.113
+0 6 5 35218 1 1455907266
+/sub/promotion/detailview8.html
+207.46.13.174
+0 2 2 8203 0 0
+-
+207.46.13.23
+0 4 4 27269 1 1455788500
+/
+69.30.198.202
+0 6 5 35218 1 1455015638
+/sub/promotion/detailview8.html
+136.243.152.18
+0 6 5 42144 1 1455748992
+/sub/company/company01.html
+40.77.167.32
+0 2 2 14184 2 1454350287
+/sub/business/business02.html
+207.46.13.40
+0 4 4 25831 3 1456488274
+/sub/business/business02.html
+69.30.211.2
+0 7 5 35434 1 1455754058
+/sub/promotion/detailview8.html
+157.55.39.74
+0 10 10 2391584 3 1454622931
+/sub/company/company02.html
+51.254.97.219
+0 6 5 35218 1 1456475095
+/sub/promotion/detailview8.html
+159.203.75.194
+0 1 1 13042 1 1456148150
+/
+207.46.13.188
+0 25 21 5030579 3 1455713097
+/sub/product/product01.html
+157.55.39.187
+0 3 0 0 0 0
+-
+207.46.13.93
+0 4 4 12684 1 1455501377
+/sub/product/product01.html
+188.40.95.70
+0 6 5 42144 1 1456471925
+/sub/company/company01.html
+180.76.15.8
+0 1 1 7248 1 1454485737
+/sub/company/company03.html
+180.76.15.11
+0 4 3 34140 4 1456296202
+/sub/human/human01.html
+51.254.215.146
+0 4 3 21715 1 1455183611
+/sub/promotion/detailview3.html
+52.48.226.218
+0 2 0 432 1 1454449066
+-
+191.232.136.149
+0 2 2 13226 1 1454591627
+/sub/product/product02.html
+157.55.39.88
+0 6 5 15627 0 0
+-
+37.187.92.25
+0 1 1 13042 1 1456126920
+/
+40.77.167.62
+0 7 5 20662 1 1454804201
+/sub/promotion/promotion01.html
+107.170.68.76
+0 6 5 42144 1 1456638526
+/sub/company/company01.html
+157.55.39.221
+0 1 1 5414 1 1455546263
+/sub/product/product02.html
+222.122.190.30
+0 1 1 13042 1 1455599258
+/
+66.249.85.180
+0 12 6 79548 6 1456478230
+/
+118.37.103.202
+0 191 48 2461458 1 1456412299
+/sub/business/business01.html
+203.217.241.195
+0 1 1 13042 1 1456204457
+/
+201.2.25.225
+0 28 28 1284199 1 1454304721
+/
+207.46.13.30
+0 1 1 7040 1 1456416700
+/sub/promotion/detailview8.html
+180.76.15.9
+0 3 3 21393 3 1455416184
+/sub/business/business01.html
+203.217.242.14
+0 3 3 39126 3 1455686207
+/
+69.30.215.26
+0 12 10 84288 2 1456446747
+/sub/company/company01.html
+157.55.39.64
+0 3 2 13442 1 1456415170
+/sub/company/company01.html
+207.46.13.121
+0 1 0 0 0 0
+-
+157.55.39.39
+0 3 3 111309 2 1454539965
+/sub/business/business01.html
+40.77.167.35
+0 2 1 7153 1 1456405682
+/sub/promotion/detailview3.html
+203.217.245.14
+0 2 2 26084 2 1455771843
+/
+66.102.6.106
+0 9 9 849725 0 0
+-
+125.209.235.184
+0 2 2 146861 0 0
+-
+207.46.13.42
+0 5 5 125177 2 1456631942
+/sub/promotion/detailview.html
+180.76.15.13
+0 2 0 216 0 0
+-
+207.46.13.134
+0 13 10 2377902 2 1455386112
+/sub/business/business03.html
+59.8.172.93
+0 40 38 2184920 1 1454330036
+/sub/company/company04.html
+62.210.97.48
+0 6 5 35218 1 1455524851
+/sub/promotion/detailview8.html
+211.36.148.162
+0 38 35 3666373 1 1456335241
+/sub/business/business01.html
+207.46.13.6
+0 5 5 124861 2 1456269815
+/sub/business/business01.html
+180.76.15.155
+0 2 2 19738 2 1456358820
+/
+40.77.167.18
+0 6 5 35354 2 1455331517
+/sub/promotion/detailview8.html
+66.249.85.183
+0 12 5 66722 5 1456667082
+/
+180.76.15.34
+0 3 2 13040 2 1455637509
+/sub/business/business02.html
+40.77.167.98
+0 2 2 3283 0 0
+-
+217.23.7.130
+0 1 1 13042 1 1454432206
+/
+157.55.39.33
+0 1 1 904 0 0
+-
+203.217.246.64
+0 1 1 13042 1 1454389731
+/
+211.206.252.201
+0 51 38 2964318 1 1455130358
+/
+46.165.197.141
+0 7 5 42360 1 1455871590
+/sub/company/company01.html
+175.223.2.227
+0 29 29 3632511 1 1456309965
+/
+69.30.213.202
+0 20 15 119035 3 1455663064
+/sub/company/company03.html
+69.197.177.50
+0 10 8 63291 2 1456586284
+/sub/promotion/detailview7.html
+213.153.229.226
+0 1 1 0 1 1456306347
+/
+5.196.219.112
+0 1 1 13042 1 1455878278
+/
+157.55.39.77
+0 2 2 191914 0 0
+-
+66.249.85.177
+0 11 5 66506 5 1456133263
+/
+125.209.235.183
+0 1 1 5251 0 0
+-
+203.217.245.131
+0 1 1 13042 1 1455340466
+/
+180.76.15.147
+0 3 3 29869 3 1455126278
+/sub/business/business03.html
+191.232.136.93
+0 1 1 6069 1 1454418159
+/sub/company/company04.html
+52.36.11.15
+0 1 1 13042 1 1454828537
+/
+136.243.5.87
+0 12 10 76459 2 1456164159
+/sub/company/company01.html
+157.55.39.82
+0 3 3 110418 2 1456170279
+/sub/human/human02.html
+157.55.39.224
+0 5 5 2370634 1 1455936629
+/sub/promotion/detailview3.html
+207.46.13.32
+0 15 9 91282 4 1455929792
+/
+157.55.39.9
+0 8 4 27485 1 1455517126
+/
+180.76.15.5
+0 2 2 13397 2 1456644083
+/sub/human/human02.html
+51.255.162.163
+0 6 5 35218 1 1456131196
+/sub/promotion/detailview8.html
+89.145.95.43
+0 1 1 13042 1 1455656531
+/
+40.77.167.52
+0 3 3 39126 3 1456144732
+/
+157.55.39.10
+0 12 11 80166 2 1454407486
+/sub/company/company04.html
+125.209.235.170
+0 7 7 52088 1 1455141975
+/
+223.62.67.200
+0 30 29 3632727 1 1454367781
+/
+203.217.247.193
+0 6 6 78252 6 1456463713
+/
+69.30.221.250
+0 8 6 42465 2 1456459614
+/sub/promotion/detailview4.html
+1.255.77.102
+0 1 1 13042 1 1454679593
+/
+144.76.12.78
+0 4 3 21147 1 1456152519
+/sub/promotion/detailview7.html
+157.55.39.194
+0 7 5 12412 1 1455803102
+/sub/product/product02.html
+157.55.39.143
+0 3 3 14227 0 0
+-
+109.236.87.235
+0 17 11 144758 1 1454432224
+/
+157.55.39.174
+0 4 4 28934 1 1454373931
+/sub/product/product01.html
+157.55.39.121
+0 5 4 2355538 1 1454447824
+/sub/company/company02.html
+40.77.167.55
+0 1 1 13042 1 1455278429
+/
+157.55.39.234
+0 2 2 6318 1 1454577683
+/sub/product/product02.html
+180.76.15.161
+0 2 2 18456 2 1455681669
+/
+207.46.13.41
+0 4 4 2368625 2 1456535628
+/sub/promotion/promotion01.html
+180.76.15.162
+0 2 2 23870 2 1455160391
+/sub/promotion/promotion01.html
+125.134.119.189
+0 307 104 5390099 9 1456056788
+/sub/promotion/detailview1.html
+157.55.39.191
+0 8 7 44463 2 1455918672
+/sub/promotion/promotion01.html
+186.249.209.208
+0 18 18 1080415 1 1454369762
+/
+222.122.190.39
+0 2 1 13258 1 1456151167
+/
+192.187.114.10
+0 1 0 216 0 0
+-
+157.55.39.176
+0 17 17 83190 8 1456315590
+/sub/company/company01.html
+180.76.15.33
+0 3 2 15060 2 1456377837
+/sub/company/company03.html
+207.46.13.164
+0 13 10 2377856 2 1456140823
+/sub/product/product01.html
+191.232.136.18
+0 3 3 33332 3 1454414480
+/sub/company/company03.html
+66.102.6.113
+0 13 13 2752224 0 0
+-
+112.172.182.70
+0 36 35 2282563 1 1455536802
+/sub/company/company01.html
+125.209.235.171
+0 8 4 438916 2 1455761829
+/
+5.9.111.70
+0 6 5 42144 1 1455981306
+/sub/company/company01.html
+91.213.59.6
+0 2 1 13258 1 1456519312
+-
+157.55.39.1
+0 5 5 2372284 1 1454325826
+/sub/company/company02.html
+180.76.15.140
+0 2 2 8448 1 1455442412
+/sub/company/company04.html
+150.70.188.176
+0 1 1 13042 1 1456080558
+/
+157.55.39.52
+0 5 5 2374669 1 1455646154
+/sub/promotion/promotion01.html
+157.55.39.171
+0 2 0 216 0 0
+-
+191.232.136.128
+0 2 0 0 0 0
+-
+180.76.15.157
+0 5 3 33924 3 1456409331
+/
+183.206.161.229
+0 2 0 432 2 1455824245
+-
+157.55.39.119
+0 3 3 15605 2 1455256671
+/sub/company/company01.html
+186.219.178.93
+0 11 11 133159 1 1454294616
+/
+157.55.39.153
+0 27 19 543814 7 1455726274
+/
+52.0.89.236
+0 1 1 13042 1 1456348352
+/
+180.76.15.25
+0 2 2 13317 2 1456125545
+/sub/company/company04.html
+125.209.235.167
+0 1 1 22415 0 0
+-
+157.55.39.27
+0 4 2 3283 0 0
+-
+180.76.15.142
+0 4 4 38704 4 1455777282
+/sub/human/human02.html
+180.76.15.135
+0 2 2 13223 2 1455144054
+/sub/company/company01.html
+189.31.175.162
+0 12 12 138483 1 1454416792
+/
+177.125.112.22
+0 21 21 1156433 1 1454389870
+/
+203.217.244.131
+0 1 1 13042 1 1454649567
+/
+157.55.39.152
+0 5 5 24321 2 1456631975
+/sub/product/product02.html
+5.9.63.149
+0 6 5 42144 1 1455442018
+/sub/company/company01.html
+203.217.241.128
+0 1 1 13042 1 1456117970
+/
+180.76.15.6
+0 2 2 12035 2 1455350459
+/sub/human/human02.html
+118.36.18.210
+0 153 46 2449121 1 1455298028
+/sub/company/company01.html
+180.76.15.30
+0 1 0 216 0 0
+-
+91.121.221.15
+0 6 5 42144 1 1456252528
+/sub/company/company01.html
+125.209.235.174
+0 13 4 936859 0 0
+-
+207.46.13.96
+0 12 12 352917 4 1455960574
+/sub/promotion/detailview1.html
+180.76.15.153
+0 3 3 39126 3 1456623159
+/
+125.209.235.185
+0 13 13 76956 1 1455484595
+/
+69.30.198.186
+0 14 10 71345 2 1455174360
+/sub/promotion/detailview8.html
+180.76.15.143
+0 2 0 432 1 1456012145
+-
+203.217.243.14
+0 1 1 13042 1 1456290478
+/
+125.209.235.172
+0 2 2 785757 0 0
+-
+136.243.103.164
+0 11 8 63507 2 1456383427
+/sub/promotion/detailview7.html
+69.30.198.178
+0 6 5 42144 1 1456202601
+/sub/company/company01.html
+180.76.15.19
+0 1 1 2379 0 0
+-
+180.76.15.156
+0 2 1 6912 1 1455277179
+/sub/company/company02.html
+180.76.15.145
+0 1 0 0 0 0
+-
+157.55.39.56
+0 9 6 53995 3 1454470627
+/
+40.77.167.54
+0 4 4 20296 1 1454544958
+/sub/company/company04.html
+117.243.198.119
+0 1 1 13042 1 1455838616
+/
+207.46.13.110
+0 4 3 200861 1 1454786499
+/sub/business/business01.html
+80.14.151.35
+0 1 1 13042 1 1456080488
+/
+40.77.167.69
+0 5 3 200861 1 1455453052
+/sub/business/business01.html
+180.76.15.28
+0 1 1 6621 1 1456267449
+/sub/human/human02.html
+203.217.244.192
+0 1 1 13042 1 1456636488
+/
+157.55.39.190
+0 10 10 87552 3 1456642427
+/
+180.76.15.15
+0 1 0 216 0 0
+-
+207.46.13.92
+0 14 13 95791 8 1455320133
+/sub/promotion/promotion01.html
+119.154.230.47
+0 13 13 144307 1 1454307879
+/
+5.149.254.109
+0 1 0 216 1 1455061437
+-
+149.202.49.56
+0 6 5 35218 1 1456282108
+/sub/promotion/detailview8.html
+125.209.235.178
+0 3 3 20747 1 1454736658
+/
+40.77.167.3
+0 3 3 2364551 2 1454726122
+/sub/promotion/promotion01.html
+192.99.107.196
+0 1 0 216 0 0
+-
+72.167.190.20
+0 1 1 0 1 1454587021
+/
+216.145.11.94
+0 2 1 13258 1 1454908411
+/
+51.254.215.145
+0 2 1 7247 1 1456662129
+/sub/promotion/detailview4.html
+180.76.15.158
+0 4 3 28910 3 1456494591
+/sub/company/company01.html
+121.254.216.15
+0 27 27 2838534 27 1456645192
+/_gabia/webalizer/usage_201602.html
+157.55.39.70
+0 10 8 142500 3 1456448439
+/sub/promotion/detailview1.html
+14.39.172.111
+0 52 36 2146248 1 1454584406
+/sub/company/company02.html
+157.55.39.241
+0 31 28 223901 11 1456448345
+/sub/promotion/detailview5.html
+40.77.167.83
+0 5 5 17228 1 1454317231
+/sub/product/product01.html
+157.55.39.213
+0 1 1 10828 1 1454433040
+/sub/promotion/promotion01.html
+207.46.13.124
+0 1 1 95957 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+180.76.15.136
+0 1 1 157 0 0
+-
+157.55.39.115
+0 7 7 40119 1 1456631935
+/sub/promotion/promotion01.html
+180.76.15.27
+0 1 0 216 1 1456636594
+-
+69.30.234.2
+0 6 5 42144 1 1456664848
+/sub/company/company01.html
+107.170.68.76
+0 6 5 42144 1 1456638526
+/sub/company/company01.html
+66.249.85.180
+0 1 0 216 0 0
+-
+207.46.13.42
+0 3 3 22128 1 1456631942
+/sub/promotion/detailview.html
+66.249.85.183
+0 1 1 13042 1 1456667082
+/
+180.76.15.5
+0 1 1 6621 1 1456644083
+/sub/human/human02.html
+157.55.39.152
+0 2 2 13226 1 1456631975
+/sub/product/product02.html
+180.76.15.153
+0 1 1 13042 1 1456623159
+/
+203.217.244.192
+0 1 1 13042 1 1456636488
+/
+157.55.39.190
+0 6 6 60283 2 1456642427
+/
+51.254.215.145
+0 2 1 7247 1 1456662129
+/sub/promotion/detailview4.html
+121.254.216.15
+0 1 1 116437 1 1456645192
+/_gabia/webalizer/usage_201602.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://taehwainno.com
+0 1
+http://www.taehwainno.com/sub/business/business03.html
+0 89
+http://www.taehwainno.com/wp-trackback.php
+0 1
+http://search.naver.com/search.naver
+0 4
+http://taehwainno.com/sub/business/business03.html
+0 22
+http://www.taehwainno.com/sub/company/company01.html
+0 154
+http://whois.domaintools.com/taehwainno.com
+0 2
+http://www.taehwainno.com/sub/business/business01.html
+0 215
+http://www.taehwainno.com/sub/promotion/detailview7.html
+0 19
+http://map.naver.com/local/siteview.nhn
+0 5
+http://www.google.com/search
+0 1
+http://buttons-for-website.com
+0 3
+http://m.search.naver.com/search.naver
+0 5
+http://taehwainno.com/sub/product/product01.html
+0 40
+http://www.taehwainno.com/common/css/common.css
+0 2
+http://search.daum.net/search
+0 3
+http://www.taehwainno.com/sub/promotion/detailview6.html
+0 17
+http://www.taehwainno.com/sub/product/product02.html
+0 140
+http://taehwainno.com/
+0 220
+http://www.taehwainno.com/common/css/default.css
+0 6
+- (Direct Request)
+0 1361
+http://top1-seo-service.com/try.php
+0 8
+http://www.taehwainno.com/common/css/board.css
+0 5
+http://map.naver.com/
+0 1
+http://www.taehwainno.com/
+0 954
+http://www.taehwainno.com/sub/promotion/promotion01.html
+0 262
+http://www.taehwainno.com/common/css/sub.css
+0 23
+http://www.taehwainno.com/sub/human/human01.html
+0 59
+http://www.taehwainno.com
+0 8
+http://www.taehwainno.com/sub/promotion/detailview4.html
+0 20
+http://www.taehwainno.com/sub/promotion/detailview1.html
+0 81
+http://taehwainno.com/index.html
+0 28
+http://taehwainno.com/sub/product/product02.html
+0 40
+http://burger-imperia.com/
+0 1
+http://www.taehwainno.com/sub/company/company03.html
+0 142
+http://m.map.naver.com/siteview.nhn
+0 1
+http://buyessaynow.biz
+0 3
+http://www.taehwainno.com/sub/human/human02.html
+0 49
+http://www.taehwainno.com/sub/promotion/detailview5.html
+0 20
+http://www.taehwainno.com/sub/product/product01.html
+0 137
+http://www.taehwainno.com/sub/promotion/detailview2.html
+0 69
+http://taehwainno.com/sub/business/business01.html
+0 20
+http://www.taehwainno.com/common/css/reset.css
+0 7
+http://www.taehwainno.com/common/css/main.css
+0 36
+http://domaincrawler.com/taehwainno.com
+0 4
+http://www.taehwainno.com/sub/business/business02.html
+0 110
+http://www.taehwainno.com/sub/company/company02.html
+0 105
+http://www.taehwainno.com/sub/promotion/detailview3.html
+0 43
+http://www.taehwainno.com/sub/company/company04.html
+0 95
+http://www.taehwainno.com/index.html
+0 177
+http://taehwainno.com/sub/business/business02.html
+0 24
+http://www.taehwainno.com/common/css/content.css
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 357
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:43.0) Gecko/20100101 Firefox/43.0
+0 36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 29
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 8
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 339
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2563.97 Safari/527.26
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:43.0) Gecko/20100101 Firefox/43.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+0 72
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 70
+Mozilla/4.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+0 20
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 97
+Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 29
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 9
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 133
+Chilkat/1.0.0 (+http://www.chilkatsoft.com/ChilkatHttpUA.asp)
+0 2
+Mozilla/5.0 (compatible; Yeti/1.1; +http://help.naver.com/robots/)
+0 94
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 541
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G906K/KTU1BOL1 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrow
+0 83
+Application
+0 1
+Validator.nu/LV
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Saf
+0 44
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N920S Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 38
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 23
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 445
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 25
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 81
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 313
+Mozilla/5.0 (compatible; WoTBoT; +https://www.wslta.com/WoTBoT.html)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google Favicon
+0 47
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+compatible;Baiduspider/2.0; +http://www.baidu.com/search/spider.html
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Ubuntu/11.10 Chromium/18.0.1025.142 Chrome/18.0.1025.1
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Inf
+0 1
+DomainCrawler/1.0
+0 4
+Mozilla/5.0 (Wi61.101.247.218 - - [18/Feb/2016:17:47:39 +0900] "HEA
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+0 115
+Apache-HttpClient/4.3.5 (java 1.5)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 26
+Mozilla/5.0 (Linux; Android 4.4.4; SM-N910S Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 50
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 14
+BUY ESSAY PAPER COURSEWORK DISSERTATION THESIS
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 953
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+0 103
+Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-N900L Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chr
+0 38
+ZumBot/1.0 (ZUM Search; http://help.zum.com/inquiry)
+0 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Inf
+0 29
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 51
+Mozilla/5.0 (Linux; U; Android 2.3.3; ko-kr; SHW-M250S Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+0 239
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 14
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
